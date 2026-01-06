@@ -1,8 +1,16 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 
 export function useTimer(seconds) {
   const [timeLeft, setTimeLeft] = useState(seconds);
-  const [running, setRunning] = useState(true);
+  const [running, setRunning] = useState(false);
+  const secondsRef = useRef(seconds);
+
+  // reset timer whenever seconds prop changes
+  useEffect(() => {
+    secondsRef.current = seconds;
+    setTimeLeft(seconds);
+    setRunning(seconds > 0);
+  }, [seconds]);
 
   useEffect(() => {
     if (!running || timeLeft <= 0) return;
@@ -17,5 +25,6 @@ export function useTimer(seconds) {
   return {
     timeLeft,
     stop: () => setRunning(false),
+    start: () => setRunning(true),
   };
 }

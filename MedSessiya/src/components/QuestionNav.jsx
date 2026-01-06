@@ -7,12 +7,12 @@ export default function QuestionNav({ total, answers, current, onSelect }) {
           <button
             key={i}
             onClick={() => onSelect(i)}
-            className={`w-10 h-10 rounded-full text-white font-semibold ${
+            className={`w-8 h-8 flex items-center justify-center text-sm font-medium ${
               i === current
-                ? 'bg-blue-600'
+                ? 'text-blue-600 underline'
                 : answered
-                ? 'bg-green-500'
-                : 'bg-gray-400'
+                ? 'text-green-600'
+                : 'text-gray-500'
             }`}
           >
             {i + 1}

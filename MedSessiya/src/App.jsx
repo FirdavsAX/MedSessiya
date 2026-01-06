@@ -10,6 +10,8 @@ import ResultCard from './components/ResultCard';
 import { shuffle } from './utils/shuffle';
 
 const TEST_TIME = 60 * 60; // 1 hour
+const RANDOM_TIME = 25 * 60; // 25 minutes
+const RANDOM_COUNT = 25;
 
 export default function App() {
   const [range, setRange] = useState(null); // start with null so RangeSelector shows
@@ -18,7 +20,8 @@ export default function App() {
   const [finished, setFinished] = useState(false);
   const [result, setResult] = useState(null);
 
-  const timer = useTimer(TEST_TIME);
+  const [testTimeSeconds, setTestTimeSeconds] = useState(0);
+  const timer = useTimer(testTimeSeconds);
 
   const [shuffledQuestions, setShuffledQuestions] = useState([]);
   const [preparing, setPreparing] = useState(false);
@@ -28,15 +31,20 @@ export default function App() {
   useEffect(() => {
     if (!range) return;
     setPreparing(true);
+
     // small timeout to show loading state for a better UX on large sets
     setTimeout(() => {
-      const sliced = questionsData.slice(range.start - 1, range.end);
-      const shuffled = sliced.map((q) => ({
+      const selected = range.random
+        ? shuffle([...questionsData]).slice(0, RANDOM_COUNT)
+        : questionsData.slice(range.start - 1, range.end);
+
+      const shuffled = selected.map((q) => ({
         ...q,
         answers: Array.isArray(q.answers)
           ? shuffle(q.answers)
           : q.answers || [],
       }));
+
       setShuffledQuestions(shuffled);
       setCurrent(0);
       setPreparing(false);
@@ -48,7 +56,15 @@ export default function App() {
     return (
       <RangeSelector
         total={questionsData.length}
-        onStart={(start, end) => setRange({ start, end })}
+        onStart={(opts) => {
+          if (opts && opts.random) {
+            setRange({ random: true });
+            setTestTimeSeconds(RANDOM_TIME);
+          } else {
+            setRange({ start: opts.start, end: opts.end });
+            setTestTimeSeconds(TEST_TIME);
+          }
+        }}
       />
     );
   }
@@ -131,6 +147,7 @@ export default function App() {
                 setResult(null);
                 setShuffledQuestions([]);
                 setRange(null);
+                setTestTimeSeconds(0);
               }}
               className='bg-gray-200 px-3 py-1 rounded'
             >
@@ -202,7 +219,15 @@ export default function App() {
   return (
     <div className='p-6 max-w-4xl mx-auto space-y-6'>
       <div className='flex justify-between items-center'>
-        <Timer seconds={timer.timeLeft} />
+        <div className='flex items-center gap-4'>
+          <Timer seconds={timer.timeLeft} />
+          {range && range.random && (
+            <span className='text-sm bg-yellow-100 px-2 py-1 rounded'>
+              Random Mode — 25 questions
+            </span>
+          )}
+        </div>
+
         <span>
           Question {current + 1} / {shuffledQuestions.length}
         </span>

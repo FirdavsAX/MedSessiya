@@ -3,8 +3,11 @@ import { useState, useMemo } from 'react';
 export default function RangeSelector({ total, onStart }) {
   const [start, setStart] = useState(1);
   const [end, setEnd] = useState(total);
+  const [random, setRandom] = useState(false);
 
   const { valid, error } = useMemo(() => {
+    if (random) return { valid: true, error: null };
+
     const s = Number(start);
     const e = Number(end);
     if (!Number.isInteger(s) || s < 1)
@@ -14,7 +17,7 @@ export default function RangeSelector({ total, onStart }) {
     if (s > e) return { valid: false, error: 'Start must be <= End' };
     if (e > total) return { valid: false, error: `End must be <= ${total}` };
     return { valid: true, error: null };
-  }, [start, end, total]);
+  }, [start, end, total, random]);
 
   return (
     <div className='max-w-md mx-auto p-6 bg-white rounded shadow space-y-4'>
@@ -53,17 +56,26 @@ export default function RangeSelector({ total, onStart }) {
 
       {error && <div className='text-sm text-red-500'>{error}</div>}
 
-      <button
-        onClick={() => onStart(Number(start), Number(end))}
-        className={`w-full py-2 rounded ${
-          valid
-            ? 'bg-blue-600 text-white'
-            : 'bg-gray-200 text-gray-600 cursor-not-allowed'
-        }`}
-        disabled={!valid}
-      >
-        Start Test
-      </button>
+      <div className='flex gap-2'>
+        <button
+          onClick={() => onStart({ start: Number(start), end: Number(end) })}
+          className={`flex-1 py-2 rounded ${
+            valid
+              ? 'bg-blue-600 text-white'
+              : 'bg-gray-200 text-gray-600 cursor-not-allowed'
+          }`}
+          disabled={!valid}
+        >
+          Start Test
+        </button>
+
+        <button
+          onClick={() => onStart({ random: true })}
+          className='flex-1 py-2 rounded bg-yellow-500 text-white'
+        >
+          Start Random Test (25 questions / 25 minutes)
+        </button>
+      </div>
     </div>
   );
 }
