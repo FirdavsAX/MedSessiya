@@ -61,23 +61,28 @@ MedSessiya/
 ## Installation & Setup
 
 ### Prerequisites
+
 - Node.js (v14 or higher)
 - npm or yarn
 
 ### Steps
 
 1. **Install dependencies**:
+
    ```bash
    npm install
    ```
 
 2. **Start development server**:
+
    ```bash
    npm run dev
    ```
+
    The application will be available at `http://localhost:5173`
 
 3. **Build for production**:
+
    ```bash
    npm run build
    ```
@@ -94,27 +99,31 @@ MedSessiya/
 ### Getting Started
 
 #### 1. **Launching the Application**
-   - Open the application in your browser
-   - You will be presented with the **Range Selector** screen
-   - This allows you to choose how you want to take the test
+
+- Open the application in your browser
+- You will be presented with the **Range Selector** screen
+- This allows you to choose how you want to take the test
 
 #### 2. **Test Mode Selection**
 
 The application offers three testing modes:
 
 ##### **Mode 1: Full Test**
+
 - **Duration**: 1 hour (60 minutes)
 - **Questions**: All questions from the database
 - **Best for**: Comprehensive assessment of all medical knowledge
 - **Action**: Click "Start Full Test"
 
 ##### **Mode 2: Random Test**
+
 - **Duration**: 25 minutes
 - **Questions**: 25 randomly selected questions
 - **Best for**: Quick knowledge check and practice
 - **Action**: Click "Random Test" or select the random option
 
 ##### **Mode 3: Custom Range**
+
 - **Duration**: 1 hour (adjustable based on question count)
 - **Questions**: Select a specific range (e.g., questions 1-50)
 - **Best for**: Focused study on specific topics
@@ -151,11 +160,13 @@ The application offers three testing modes:
 ### Completing the Test
 
 #### **Before Submission**
+
 1. Review all your answers using the question navigation panel
 2. The navigation shows which questions have been answered
 3. Make any final adjustments to your answers
 
 #### **Submitting**
+
 1. Click the "Submit Test" or "Finish" button
 2. Your answers are collected and scored
 3. The test is locked and cannot be modified
@@ -163,6 +174,7 @@ The application offers three testing modes:
 ### Viewing Results
 
 #### **Result Card Display**
+
 After submission, you will see:
 
 1. **Overall Score**
@@ -191,6 +203,7 @@ After submission, you will see:
 ## Managing Questions
 
 ### **Current Questions Source**
+
 - Questions are stored in `src/data/questions.json`
 - Questions are in Uzbek language (can be translated as needed)
 - Each question includes:
@@ -209,6 +222,7 @@ The parser script (`parser.py`) can convert medical questions from DOCX files to
    - Each question should clearly indicate correct answers
 
 2. **Run Parser**
+
    ```bash
    python parser.py input_file.docx
    ```
@@ -244,6 +258,7 @@ The parser script (`parser.py`) can convert medical questions from DOCX files to
 ```
 
 **Fields**:
+
 - `id`: Unique question identifier
 - `question`: Question text
 - `answers`: Array of answer options
@@ -269,6 +284,7 @@ The parser script (`parser.py`) can convert medical questions from DOCX files to
 ### **Weighted Questions**
 
 Questions can have different weights to reflect difficulty or importance:
+
 - Standard questions: 100 points each
 - Weighted questions: Can have 50, 150, 200+ points
 - Weight is defined in the `questions.json` file
@@ -278,6 +294,7 @@ Questions can have different weights to reflect difficulty or importance:
 ## Tips for Users
 
 ### **For Test Takers**
+
 1. **Read Carefully**: Take time to understand each question completely
 2. **Skip if Uncertain**: You can skip and return later
 3. **Manage Time**: Monitor the timer and pace yourself accordingly
@@ -285,6 +302,7 @@ Questions can have different weights to reflect difficulty or importance:
 5. **Practice Mode**: Use random mode for practice before taking full test
 
 ### **For Administrators**
+
 1. **Regular Updates**: Keep questions.json updated with latest medical content
 2. **Backup Questions**: Always backup before updating questions
 3. **Monitor Usage**: Track test results for assessment purposes
@@ -297,15 +315,17 @@ Questions can have different weights to reflect difficulty or importance:
 ### **Test Time Configuration**
 
 Modify time limits in `src/App.jsx`:
+
 ```javascript
-const TEST_TIME = 60 * 60;      // Full test: 1 hour (in seconds)
-const RANDOM_TIME = 25 * 60;    // Random test: 25 minutes
-const RANDOM_COUNT = 25;        // Random test: 25 questions
+const TEST_TIME = 60 * 60; // Full test: 1 hour (in seconds)
+const RANDOM_TIME = 25 * 60; // Random test: 25 minutes
+const RANDOM_COUNT = 25; // Random test: 25 questions
 ```
 
 ### **Scoring Service**
 
 The `scoringService.js` handles:
+
 - Calculating individual question scores
 - Computing total test score
 - Generating performance statistics
@@ -314,6 +334,7 @@ The `scoringService.js` handles:
 ### **State Management**
 
 App.jsx manages:
+
 - Current question index
 - User answers (answer history)
 - Test state (in progress, finished)
@@ -326,13 +347,13 @@ App.jsx manages:
 
 ### **Common Issues**
 
-| Issue | Solution |
-|-------|----------|
-| Questions not loading | Check `src/data/questions.json` exists and has valid JSON |
-| Timer not working | Ensure `useTimer` hook is properly imported in App.jsx |
-| Answers not saving | Check browser console for JavaScript errors |
-| Parser not working | Ensure Python 3 is installed and DOCX file format is correct |
-| Styling issues | Run `npm install` to ensure Tailwind CSS is installed |
+| Issue                 | Solution                                                     |
+| --------------------- | ------------------------------------------------------------ |
+| Questions not loading | Check `src/data/questions.json` exists and has valid JSON    |
+| Timer not working     | Ensure `useTimer` hook is properly imported in App.jsx       |
+| Answers not saving    | Check browser console for JavaScript errors                  |
+| Parser not working    | Ensure Python 3 is installed and DOCX file format is correct |
+| Styling issues        | Run `npm install` to ensure Tailwind CSS is installed        |
 
 ### **Performance Tips**
 
@@ -379,6 +400,7 @@ App.jsx manages:
 ## Support & Contact
 
 For questions or issues related to this application:
+
 - Check the troubleshooting section above
 - Review the source code comments
 - Consult the component documentation
