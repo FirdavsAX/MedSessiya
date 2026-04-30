@@ -3,11 +3,8 @@ import { useState, useMemo } from 'react';
 export default function RangeSelector({ total, onStart }) {
   const [start, setStart] = useState(1);
   const [end, setEnd] = useState(total);
-  const [random, setRandom] = useState(false);
 
   const { valid, error } = useMemo(() => {
-    if (random) return { valid: true, error: null };
-
     const s = Number(start);
     const e = Number(end);
     if (!Number.isInteger(s) || s < 1)
@@ -17,7 +14,7 @@ export default function RangeSelector({ total, onStart }) {
     if (s > e) return { valid: false, error: 'Start must be <= End' };
     if (e > total) return { valid: false, error: `End must be <= ${total}` };
     return { valid: true, error: null };
-  }, [start, end, total, random]);
+  }, [start, end, total]);
 
   return (
     <div className='max-w-md mx-auto p-6 bg-white rounded shadow space-y-4'>

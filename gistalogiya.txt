@@ -1,0 +1,3586 @@
+1 ta javobli
+
+##Sentriola mikronaychalarining  formulasi:
++ (9x3) + 0
+-(9x2) + 2
+- (9x3) + 3
+-(9x2) + 0
+-(9x3) + 2
+
+##Hujayralarning qaysi bo‘linishida xromosomalarning soni ikki barobar qisqaradi:
++meyozda
+-mitozda
+-endomitozda
+-amitozda
+-yuqoridagilarning hammasida
+
+##Qaysi organoid moddalarni hujayra ichida xazm qilinishida qatnashadi:
++lizosoma
+-endoplazmatik to‘r
+-peroksisoma
+-Golji kompleksi
+-mitoxondriya
+
+##Mikronaychalar qanday oqsilidan tuzilgan:
++ tubulin
+- aktin
+-keratin
+-elastin
+-miozin
+
+##Ko‘p yadroli protoplazmatik tuzilmalar bular:
++ simplastlar
+-trombotsitlar
+- sintisiy
+-epiteliy xujayralari
+-kollagen tolalar
+
+##Hujayra sitoplazmasining bazofilligi qaysi organellaga bog’liq:
++ribosomalarga
+- mikronaychalarga
+- mitoxondriyalarga
+-lizosomalarga
+- sentriolalarga
+
+##Hujayra bo‘linish dukining shakllanishida qaysi organellalar ishtirok etadi
++sentriolalar
+- ribosomalar
+- endoplazmatik to‘r
+- lizosomalar
+- Golji apparati
+
+
+
+##Epiteliy va biriktiruvchi to’qima orasida qanday tuzilma bo‘ladi:
++bazal  membrana
+-amorf modda
+-kollagen tolalar
+-elastik membrana
+-hujayralarning oraliq qavati
+
+##Ko‘p qavatli yassi muguzlanmaydigan epiteliy qaerda uchraydi:
++og’iz  bo‘shlig’ida
+-siydik pufagida
+-teri epidermisida
+-o‘t pufagida
+-kekirdakda
+
+##Muguzlanadigan epiteliy qavatlarining ketma-ketligi qaysi javobida to‘g’ri berilgan:
++bazal, tikanaksimon, donador, yaltiroq, muguz
+-bazal, donador, tikanasimon, yaltiroq, muguz
+-bazal, yaltiroq, tikanaksimon, donador, muguz
+-bazal, tikanaksimon, yaltiroq, donador, muguz
+-bazal, tikanaksimon, donador, muguz, yaltiroq
+
+##Bez hujayralarining apokrin sekretsiyasida:
++hujayralarning apikal qismi  parchalanadi
+-hujayra tuzilmalari to’liq parchalanadi
+-hujayralarning bazal qismi qisman parchalanadi
+-hujayralar yadrosi parchalanadi
+-hujayra tuzilmalari parchalanmaydi
+
+##Ekzokrin bezlarning morfologik klassifikatsiyasi asoslangan:
++oxirgi bo‘limlari va naylarining tuzilishiga
+-sekretini ajratish usuliga
+-sekretining kimeviy tarkibiga
+-oxirgi bo‘limlarining joylashishishga
+-bezlarning taraqqiyot manbalariga
+
+##Gistaminni  kamaytirishda qatnashadigan leykotsitlar:
++eozinofillar
+-neytrofillar
+-bazofillar
+-limfotsitlar
+-monotsitlar
+
+##Quyidagi a'zolardan qaysi birida faqat xomila davrida qon yaratiladi:
++jigarda
+-suyak kumigida
+-taloqda
+-limfa tugunida
+-timusda
+
+
+##Eritropoezning qaysi davrida yadrolari chiqib ketadi:
++oksifil normotsitda
+-bazofil normotsitda
+-eritroblastda
+-proeritroblastda
+-polixromatofil normotsitda
+
+##Osteon bu:
++naysimon suyakning struktur-funksional  birligi
+-suyak to’qimasining xujayrasi
+-suyak to’qimasining oraliq moddasi
+-suyak to’qimasining rivojlanish manbai
+-osteogen xujayralar
+
+##Plazmatik hujayralarga yahshi rivojlangan organellani aniqlang:
++donador  endoplazmatik to‘r
+-ribosoma va polisomalar
+-Golji kompleksi
+-mitoxondriya
+-lizosoma. 
+
+##Makrofaglarga yahshi rivojlangan  organellani aniqlang:
++lizosomalar
+-donador endoplazmatik to‘r
+-ribosoma va polisomalar
+-Golji kompleksi
+-mitoxondriyalar
+
+##Geparin va gistamin sintezlaydigan biriktiruvchi to’qima hujayrasi:
++ semiz hujayra
+-fibroblast
+-makrofag
+-plazmotsit
+-adipotsit
+
+##Naysimon suyakning bo‘yiga o‘sishini ta'minlaydi:
++metaepifizar plastinka
+-periost
+-endost
+-tashqi, ichki, umumiy plastinkalar
+-osteonlar
+
+##Semiz hujayralarni belgilovchi ferment:
++gistidindekarboksilaza
+-ishqoriy fosfataza
+-kislotali fosfataza
+-perksidaza
+-sitoxromoksidaza
+
+##Tog’ay  to’qimasining  klassifikatsiyasi  asoslangan:
++hujayralararo moddaning  tuzilishiga
+-a'zolarda tog’aylarni joylashishiga
+-ularni kelib chiqishiga
+-tolali tuzilmalarga
+-xujayra elementlarining tarkibiga
+
+##Naysimon suyaklarning eniga o‘sishi nima xisobiga boradi
++suyak usti pardasi(periost)
+-metaepifizar tog’ay plastinkasi
+-tashqi  umumiy plastinkalar
+-ichki umumiy plastinkalar
+-osteonlar
+
+##Nerv nayidan takomillashadigan miotsitlar:
++ko‘zning rangdor pardasi  miotsitlari
+-ichki a'zolar devoridagi silliq miotsitlar
+-mioepiteliotsitlar
+-qisqaruvchi kardiomiotsitlar
+-o‘tkazuvchi kardiomiotsitlar
+
+##Har bir skelet mushak tolalari o‘ralgan:
++endomiziy bilan
+-perimiziy bilan
+-epimiziy bilan
+-endotenoniy bilan
+-peritenoniy bilan
+
+##O‘simtasi T-shaklda tarmoqlangan neyron:
++psevdounipolyar
+-multipolyar
+-neyroblast
+-bipolyar
+-unipolyar
+
+##Sekretor funksiyasini bajaruvchi neyroglial hujayralar:
++ependimogliotsitlar
+-protoplazmatik astrotsitlar
+-tolali astrotsitlar
+-mikrogliotsitlar
+-oligodendrotsitlar
+
+##Nerv  tolasidagi bo‘g’iqlar joylashgan:
++qo‘shni lemmotsitlar  chegarasida
+-mezaksonda
+-nerv tolalarini birikkan joyida
+-lemmotsitlarni yadroli zonasida
+-lemmotsitlar atrifida
+
+##Mezakson hisoblanadi:
++lemmotsit plazmolemmasining duplikaturasi	
+-lemmotsit tarkibi
+-ependimotsit plazmolemmasining duplikaturasi
+-mikrogliya
+-neyrotsit plazmolemmasining duplikaturasi
+
+##Bosh miya qorinchalari va orqa miya kanali devorini qoplovchi hujayralar:
++ependimogliotsitlar
+-astrotsitlar
+-oligodendrogliotsitlar
+-endoteliotsitlar
+-ko‘p qatorli prizmatik epiteliy
+
+
+
+##Arteriyalar ta'rifining asosiy mezoni asoslangan:
++silliq mushak hujayralari va elastik tolalarning o‘zaro munosabatiga
+-arteriyalarning organizmda joylashuviga
+-arteriya diametriga
+-ichki elastik membrananing bo‘lishiga
+-tashqielastik membrananing bo‘lishiga
+
+##Oraliq disklar mos keladi:
++qisqaruvchi kardiomiotsitlar  chegarasiga
+-o‘tkazuvchi kardiomiotsitlar chegarasiga
+-miofibrillalarni plazmolemmaga o‘tish joyiga
+-kardiomiotsitlar o‘rtasidagi yon birikmalari soxasiga
+-glikogen ko‘p to‘planadigan soxaga
+
+##Qon tomirlarning taraqqiyot manbai:
++xorion va sariqlik qopchasi devoridagi qon  orolchalari
+-sariqlik qopchasi
+-mezenxima xujayralari
+-xorion devori
+-mioepikardial plastinka
+
+##Sinusoid kapillyar qaerda uchraydi:
++suyak ko‘migi, taloq, jigar
+-taloq, jigar, me'da
+-jigar, taloq, o‘pka
+-suyak ko‘migi, o‘pka, bachadon
+-o‘pka, limfatik tugun, suyak ko‘migi
+
+##Gemato-timik bar'yer xosil bo‘lishida ishtirok etadi:
++uzluksiz endoteliy  va bazal membranaga ega kapillyar
+-endoteliysida teshiklari bor kapillyar
+-fenestrali kapillyar
+-sinusoid kapillyar
+-bazal membranasizkapilyar
+
+##II tipdagi kapillyarning o‘ziga xosligi: 
++fenestrali endoteliy, bazal membrana uzluksiz
+-endoteliyuzluksiz, bazal membrana uzlukli
+-endoteliyteshiklarga ega, bazal membrana uzlukli
+-endoteliy uzluksiz, bazal membrana butun
+-endoteliy fenestrali, bazal membrana yo’q
+
+##Venalar tavsifi asoslanadi:
++mushak elementining rivojlanishiga ko‘ra
+-elastik va mushak tolalarining munosabatiga ko‘ra
+-kollagen va mushak tolalarining munosabatiga ko‘ra
+-klapan mavjudligiga ko‘ra
+-kalibri va organizmda joylashishiga ko‘ra 
+
+##Qaysi arteriyalarda ichki elastik membrana mavjud emas:
++elastic tipdagi
+-mushak tipdagi
+-aralash tipdagi
+-arteriolada
+-elastik va aralash tipdagi
+
+##Peritsitlar kapillyar devorining qaysi qavatida joylashadi:
++bazal membrana yoriqlarida 
+-bazal membrana ustida
+-endoteliyustida
+-subendotelial qavatda
+-bazal membrana ostida
+
+##Taloqdagi ochiq  qon aylanish doirasining xususiyati:
++kapillyarlar retikulyar tuqimaga ochiladi
+-kapillyarlar muftalar orqali birlashgan
+-kapillyarlar sinuslarga ochiladi
+-kapillyar devori qalinlashgan
+-kapillyar devorida mushak tolalari bor
+
+##T- limfotsitlarning antigenga bog'liq bo'lmagan takomillashishi kechadi:
++timusda
+-taloqda
+-limfa tugunlarida
+-qizil suyak ko‘migida
+-murtaklarda
+
+##Markazida makrofag  joyjashgan  suyak  ko‘migi orolchalarida rivojlanadi: 
++eritrotsit
+-megakariotsit
+-granulotsit
+-limfotsit
+-monotsit
+
+##Taloqdagi yopiq qon aylanish doirasi xarakterlanadi:
++kapillyarlar venoz sinuslarga ochiladi
+-kapillyarlar muftalar orqali birlashgan
+-kapillyarlar retikulyar to’qimaga ochiladi 
+-kapillyar devori qalinlashgan
+-kapillyar devorida mushak tolalari bor
+
+##Limfa tugunida limfa aylanishida ishtirok etuvchi tuzilmalar:
++qirg’oq sinusi, oraliq sinus, mag’iz sinusi.
+-mag’iz sinusi, postkapillyar tomirlar, mag’iz sinusi
+-oraliq sinusi, mag’iz sinusi, postkapillyar tomir
+-mag’iz sinusi, postkapillyar tomirlar, oraliq sinusi
+-capsula atrofi sinusi, mag’iz sinusi, postkapillyar tomir
+
+##Timusning Gassal  tanachalar bu:
++degeneratsiyalanayotgan epiteliotsitlarning to‘plami
+-plastinkasimon sezuvchi nerv oxirlari
+-T-limfotsitlar to‘planadigan joy
+-kaltsiy tuzlarining to‘plami
+-regeneratsiyalanayotgan epiteliotsitlar to‘plami
+
+##Gemato-timus to‘siq tarkibi:
++retikuloepitelial hujayralar, kapillyar endoteliysi, perikapillyar bo‘shliq
+-kapillyar endoteliysi, limfotsit, plazmatic hujayra
+-retikuloepitelial hujayralar, B - limfotsit
+-perikapillyar bo‘shliq, endoteliy
+-retikuloepitelial hujayralar, kapillyar endoteliysi, tomir bo‘shlig‘i
+
+##Yog’ bezlari sekretsiya jarayoni bo‘yicha:
++golokrin
+-ekkrin
+-merokrin
+-makroapokrin
+-mikroapokrin
+
+
+
+##Tuzilishiga ko‘ra ter bezlari:
++oddiy tarmoqlanmagan naysimon bezlar
+-oddiy tarmoqlangan naysimon bezlar
+-oddiy tarmoqlangan alveolyar bezlar
+-murakkab alveolyar-naysimon bezlar
+-oddiy tarmoqlanmagan alveolyarbezlar
+
+
+##O‘t qopchasining epiteliysi:
++baland prizmatik jiyakli
+-bir qavat yassi
+-birqavatkubsimon
+-past prizmatik
+-ko’p qatorli xilpillovchi
+
+##Glyukokortikoidlarning sintezini stimullovchi:
++AKTG, kortikoliberin
+-tireotron gormon, somatoliberin
+-gonadoliberin, atriopeptin
+-angiotenzin II, AKTG
+-AKTG,tiroliberin
+
+##Steroid turdagi gormonlarni ishlaydi:
++buyrak usti bezining tutamli zonasi hujayralari
+-buyrak usti bezining xromaffin hujayralari
+-adenogipofizning atsidofil hujayralar
+-tireotsitlar
+-Langergans orolchasidagi B-xujayralar
+
+
+##O‘rta bronxning fibroz-tog’ay pardasi tuzilgan:
++elastic tog’ay orolchalaridan
+-tog’ay yarim halqalaridan
+-gialintog’ay orolchalaridan
+-tog’ayhalqalaridan
+-tog’ay plastinkalari va tog’ay orolchalaridan
+
+##O‘pka respirator bo‘limining struktur birligi bu: 
++atsinus
+-bo‘lakcha
+-segment
+-follikul
+-alveola
+
+##Surfaktant sintezida ishtirok etadi:
++2-tip alveolotsitlar
+-1-tip alveolotsitlar
+-3-tip alveolotsitlar
+-makrofaglar
+-qadaxsimon hujayralar
+
+
+##Suyak to’qimasini parchalaidi:
++osteoklastlar
+-fibroklastlar
+-osteoblastlar
+-osteotsitlar
+-chondroklastlar
+
+##DOFA- oksidaza fermentiga ijobiy reaksiya ko‘rsatadi:
++melanotsitlar
+-keratinotsitlar
+-Langergans hujayralari
+-T-limfotsitlar
+-Merkel hujayralari
+
+##Yog’ bezlari tuzilishiga ko‘ra:
++oddiy tarmoqlangan alveolyar bezlar
+-oddiy tarmoqlangan naysimon bezlar
+-oddiy tarmoqlanmagan naysimon bezlar
+-murakkab tarmoqlangan alveolyar-naysimon bezlar
+-oddiy tarmoqlanmagan alveolyar bezlar
+
+##Merokrin ter bezlarining oxirgi bo‘limlarida quyidagi hujayralar tafovut etiladi: 
++sekretor va mioepitelial
+-sekretor va tayanch 
+-sekretor va kiprikli 
+-sekretor va ekskretor 
+-sekretor va sezuvchi 
+
+
+##Siyrak tolali shakllanmagan biriktiruvchi to’qimaning asosiy hujayra elementlari:
++fibroblastlar, makrofaglar
+-fibroblastlar, bazofillar
+-limfotsitlar, monotsitlar
+-neytrofillar, makrofaglar
+-makrofaglar, plazmotsitlar
+
+##Zich tolali shakllangan biriktiruvchi to’qimadan tuzilgan:
++paylar
+-dermaning to‘rsimon qavati
+-dermaning so’rg’ichliqavati
+-gipoderma
+-ko‘zning to‘r pardasi
+
+##Etuk fibroblastlarda yaxshi rivojlangan:
++granulyar endoplazmatik to‘r, Golji kompleksi
+-lizosoma, peroksisoma
+-mitoxondriya, tonofibrilla
+-sillik endoplazmatik to‘r,mikronaychalar
+-vakuolalar va miofibrillalar. 
+
+##Plazmatik hujayralarning asosiy vazifasi:
++immunoglobulinlarni ishlab chiqarish
+-geparin va gistamin ishlab chiqarish
+-fagotsitoz
+-tolalar va xujayralararo moddani sintezlash
+-gormon ishlab chiqarish. 
+
+##Geparin va gistamin ishlab chiqaruvchi hujayra:
++labrotsit
+-makrofag
+-adipotsit
+-fibroblast
+-melanotsit
+
+##Limfa tugunining T-ga tobe zonasi:
++parakortikal zona
+-limfoid follikulalar
+-mag’iz tasmalar
+-mag’iz sinuslari
+-parafollikulyar zona
+
+##Organizmning turli a’zolarining yagona sistemaga birlashishi:
++integratsiya
+-determinatsiya
+-regeneratsiya
+-metaplaziya
+-differentsialanish
+
+##Qizil suyak ko‘migida eritrotsitopez orolchasi markazida joylashadi:
++makrofag
+-megakariotsit
+-trombotsit
+-retikulotsit
+-endoteliotsit
+
+
+##Taloqning oq pulpasini xosil qiladi:
++T- va B-limfotsitlar
+-T-limfotsitlar va makrofaglar
+-B-limfotsitlar va retikulyar hujayralar
+-splenotsitlar va eritrotsitlar
+-plazmatik hujayralar va retikulyar hujayralar
+
+##Neytrofil leykotsitlarning (azurofil) donachalari saqlaydi:
+-geparin
+-gistamin
+-ishqoriy fosfataza
++kislotali fosfataza
+-immunoglobulinlar
+
+##Eritrotsitopoezning qaysi bosqichida yadro hujayradan chiqib ketadi?
+-eritroblast
+-bazofil normotsit
+-polixromatofil normotsit
++oksifil normotsit
+-pronormotsit
+
+##Trombotsitopoez jarayonining morfologik jixatdan aniqlanishi mumkin bo‘lgan eng yosh hujayrasi:
+-promegakariotsit
+-trombotsit
++megakarioblast
+-monoblast
+-megakariotsit
+
+##Granulotsitopoezning qaysi bosqichidan boshlab hujayralar ko‘payish qobiliyatini yo’qotadi:
+-promielotsitlar
+-mielotsitlar
++metamielotsitlar
+-mieloblastlar
+-tayog’cha yadroli leykotsitlar
+
+##Bazofil leykotsitlarning qondagi foiz miqdori:
++0-1%
+-4-8%
+-2-5%
+-65-75%
+-0-0,5%
+
+##Ikkita Z-chiziqchasi oralig’idagi miofibrilla bo‘lakchasi bu:
++sarkomer
+-T-naychalar sistemasi
+-I-disk
+-N-zona
+-sarkosoma
+
+##H- zona:
+-faqat aktin tutadi
++faqat miozin tutadi
+-aktin va miozin tutadi 
+-tropomiozin tutadi
+-troponin tutadi
+
+##A-disk:
++miozin va qisman aktin tutadi 
+-miozin vaT-naychalar tutadi
+-qismanmiozin tutadi
+-faqat aktin tutadi
+-hech narsa tutmaydi
+
+##Ko‘ndalang-targ’il skelet mushagining taraqqiyot manbai:
++miotom
+-mezenxima
+-mezoderma
+-ektoderma
+-mioepikardial plastinka
+
+##Gemato-ensefalik to‘sig’ini hosil qilishda ishtirok etadi:
++astrotsit
+-multipotensial gliya
+-ependimotsit
+-neyrolemmotsit
+-oligodendrogliotsit
+
+##Nerv tolasini hosil qilishda ishtirok etadi:
++neyrolemmotsitlar
+-ependimotsitlar
+-mikrogliotsitlar 
+-tolali astrotsitlar
+-protoplazmatikastrotsitlar
+
+##Miyelinli nerv tolasi uchun xos:
++impulsni saltator o‘tkazadi
+-membrana depolyarizatsiyasi uzluksiz
+-asosan vegetativ nerv sistemasiga tegishli 
+-impuls sekin tarqaladi
+-kabel tipida bo‘ladi
+
+##Tigroid moddaning tarkibiy qismi:
++donador endoplazmatik to‘r va ribosomalar
+-silliq endoplazmatik to‘r va ribosomalar
+-Golji kompleksi va mitoxondriyalar
+-silliq endoplazmatik to‘r va mitoxondriyalar
+-peroksisoma va lizosomalar
+
+
+##Katta yoshdagi organizmda dag’al tolali suyak to’qimasi uchraydi:
++kalla suyagi choklarida
+-naysimon suyakning kompakt moddasida
+-yassi suyaklarda
+-naysimon suyaklarning g’ovak moddasida
+-metaepifizar plastinkada
+
+##Naysimon suyak kompakt moddasining struktur birligi:
++osteon
+-osteotsit
+-osteoblast
+-osteoklast
+-periost
+
+##Suyak usti pardasi /periost/ quyidagilardan tuzilgan:
++tashqitolali va ichki hujayrali qavatlardan
+-tashqi hujayrali va ichki tolali qavatlardan
+-bir qavat joylashgan retikulyar hujayra va tolalardan 
+-osteotsit, osteoklastlar va bazal membranadan
+-osteoblast, osteotsit va osteoklastlardan 
+
+
+##Izogen guruxlar bu:
++yagona bo‘shliqda yotuvchi xondrotsitlar guruxi
+-lakunanalarda joylashgan osteotsitlar guruxi
+-mezenxima hujayralarining guruhi
+-hujayralararo moddaning zichlashgan qismi
+-perixondrda yotuvchi xondroblastlar guruxi. 
+
+##Gialin tog’ayto’qimasi uchraydi:
++traxeyada
+-quloq suprasida
+-umurtqalararo diskda
+-paylarning gialin tog’ayiga o‘tish qismida
+-kichik bronxlarda
+
+##Bo’gim yuzasi tog’ayining oziqlanishini ta'minlaydi:
++sinovial suyuqlik
+-tog’ay usti pardasi tomirlari 
+-tog’ayning tashqi zonasida joylashgan qon tomirlar
+-tog’ayning o‘rta zonasida joylashgan qon tomirlar
+-suyak usti pardasi
+
+##Bo‘lg’usi suyakning tog’ay modeli tuzilgan:
++perixondr bilan o‘ralgan embrional gialin tog’aydan
+-perixondr bilan o‘ralgan elastik tog’aydan
+-perixondr bilan o‘ralgan tolali tog’aydan
+-perixondr tutmagan embrional gialin tog’aydan
+-periost bilan o‘ralgan elastik tog’aydan 
+
+
+
+##Endokrin hujayralar ajratadi:
++gormonlar 
+-immunoglobulinlar
+-fermentlar
+-xlorid kislota
+-shillik
+
+##Gormonlar quyidagi hujayralar bilan bog’lanadi:
++nishon
+-o‘zak
+-kambial
+-o‘suvchi
+-yarim o‘zak
+
+
+##Adenogipofiz taraqqiy etadi:
++og’iz bo‘shlig’i epiteliysidan 
+-neyrogliyadan
+-neyroblastlardan
+-selomik epiteliydan
+-oraliq miya tomidan
+
+##Qalqonsimon bezning K-hujayralari ishlab chiqaradi:
++tireokalsitonin 
+-tiroksin
+-triyodtironin
+-paratirin
+-tireotrop gormon
+
+##To’qimalarning kurtaklardan hosil bo‘lish jarayoni - bu:
++gistogenez
+-proliferatsiya
+-metaplaziya
+-gastrulyatsiya
+-gipertrofiya 
+
+##To’qimalarning genetik jihatdan belgilangan yo‘nalishlarda  ixtisoslanishi - bu:
++determinatsiya
+-integratsiya
+-differensialanish
+-regeneratsiya
+-metaplaziya
+
+##Turli to’qima va a'zolarning yagona organizm shaklida birlashuvi -bu:
++ integratsiya
+-determinatsiya
+-regeneratsiya
+-metaplaziya
+-differensialanish
+
+##Epiteliy to’qimasining o‘ziga xos xususiyatlaridan biri:
++qon tomirlari yo’q
+-qon tomirlarga boy
+-hujayralararo moddaga boy
+-regeneratsiya qilmaydi
+-nerv oxirlari tutmaydi
+
+##Bir qavatli yassi epiteliy joylashgan:
+-siydik pufagi shilliq pardasida
++seroz pardalarda
+-bronxda
+-ingichka ichak shillik pardasida
+-to‘g’ri ichak shillik pardasida. 
+
+##Yurakning atipik kardiomiotsitlarini ko‘rsating:
++Peysmeker hujayralari, oraliq hujayralar, Purkinye tolalari
+-oraliq hujayralar, oraliq plastinkalar, Peysmekker hujayralari 
+-Purkine tolalari, Giss tutamiva oraliq plastinkalar
+-Purkine tolalari va Purkine neyronlari
+-Giss tutami va Purkinye tolalari. 
+
+##Peysmeker hujayralariga xos:
++miofibrillalari kam va siyrak joylashgan 
+-mitoxondriyalarga boy
+-T- naychalar sistemasi mavjud 
+-sarkoplazmatik retikulumga boy
+-qisqarish vazifasini bajaradi
+
+##Epikard. (Noto’gri fikrni ko’rsating):
++bir qavatli kubsimon epiteliy bilan qoplangan
+-biriktiruvchi tuqimaning yupqa plastinkasidan iborat
+-miokardga zich birikib ketgan
+-perikardning vistseral varagidir
+-erkin yuzasi mezoteliy bilan qoplangan
+
+##Endokardda uchramaydi:
+-endoteliy
+-subendoteliy
+-mushak-elastik 
++ichki elastik membrana
+-tashqi biriktiruvchi to’qimali qavat
+
+##Tipik kardiomiotsitlarga xos emas:
++miofibrillalari kam va siyrak joylashgan
+-mitoxondriyalarga boy
+-T- naychalar sistemasi mavjud 
+-sarkoplazmatik retikulumga boy
+-qisqarish vazifasini bajaradi
+
+##Ikki membranali organellalarga kiradi:
+-endoplazmatik to‘r
++mitoxondriya
+-Golji kompleksi
+-lizosoma
+-peroksisoma
+
+##Yaxshi rivojlangan donador endoplazmatik to‘r tutvchi hujayra quyidagilarni sintezida qatanashadi:
+-lipidlar
++oqsillar
+-glikogen
+-pigmentlar
+-lizosomalar
+	
+##Lizosomalar quyidagi hujayralarda yaxshi rivojlangan:
+-fibroblast
++makrofag
+-plazmatik hujayra
+-miotsit
+-neyrotsit
+
+##Lizosomalar qaysi organellalarda shakllanadi:
+-donador endoplazmatik to‘rda
+-donasiz endoplazmatik to‘rda
++Golji kompleksida
+-yadroda
+-mitoxondriyada
+
+##Qoldiq tanchalar – bu quyidagi qaysi tuzilmalarning turi hisoblanadi:
+-peroksisoma
++lizosoma
+-kiritma
+-mitoxondriya
+-diplosoma
+
+##Kiprikchani hosil qiladi:
+-mikrofilamentlar
++mikronaychalar
+-miofibrillalar
+-neyrofibrillalar
+-tonofibrillalar 
+
+##Yadrocha quyidagi vazifani bajaradi:
+-glikogen sintezi
+-irsiy axborotni uzatish
++r-RNK sintezlash
+-irsiy axborotni saQlash
+-DNK sintezi	
+
+##Suyak to’qimasining lakunalarida joylashgan:
++osteotsitlar
+-osteoblastlar
+-osteoklastlar
+-osteon
+-periostI
+
+	
+##Gemopoez davomida demarkatsion membranalar xosil bo’ladi:
++megakariotsitlarda
+-trombotsitlsrda
+-eritroblastlarda
+-monoblastlarda
+-normotsitlarda
+
+##Teri yuzasini qoplovchi epiteliy:
+-bir qavatli prizmatik
+-bir qavatli yassi
+-bir qavatli ko‘p qatorli 
+-ko‘p qavatli yassi muguzlanmaydigan
++ko‘p qavatli yassi muguzlanuvchi
+
+##Teri epidermisining taraqqiyot man'bai:
+-mezodermaning visseral varag’i
++ektoderma
+-entoderma
+-mezenxima
+-mezodermaning parietal varag’i
+
+##Seroz pardalarni qoplovchi mezoteliy tuzilishiga ko‘ra:
+-bir qavatli prizmatik
++bir qavatli yassi
+-bir qavatli kubsimon
+-bir qavatli ko‘p qatorli
+-o‘zgaruvchan
+
+##Nafas yo‘llarining kiprikli epiteliysi tuzilishiga ko‘ra:
+-bir qavatli prizmatik
+-bir qavatli yassi
++bir qavatli ko‘p qatorli kiprikli
+-ko‘p qavatli yassi muguzlanuvchi
+-bir qavatli kubsimon 
+
+##Kiprikli xilpillovchi epiteliyning shilliq ajratuvchi hujayralarini ko‘rsating:
+-kiprikli
+-endokrin
++qadaxsimon
+-oraliq hujayralar
+-Klar xujayralari
+
+##Ko‘p qavatli epiteliyga kiradi:
++ o‘zgaruvchan epiteliy
+-mezoteliy
+-ko‘p qatorli hilpillovchi epiteliy
+-endoteliy
+-jiyakli epiteliy
+
+##Megakariotsitlar sitoplazmasining yadrosiz fragmentlari - bu:
+-limfotsit
+-monotsit
++trombotsit
+-eritrotsit
+-neytrofil
+
+##Qondan biriktiruvchi to’qimaga o‘tuvchi va makrofagga ixtisoslashuvchi qon hujayrasi:
+-limfotsit
++monotsit
+-neytrofil
+-eozinofil
+-bazofil
+
+##Limfotsitlarning sitoplazmasi bo‘yaladi:
+-neytrofil
++bazofil
+-polixromatofil
+-metaxromatik
+-oksifil
+
+##Biriktiruchi to’qimaning barcha turlari rivojlanadi:
+-entodermadan
+-ektodermadan
++mezenximadan
+-mezodermadan
+-nerv nayidan
+
+##Yog’to’qimasi qaysi to’qima tarkibiy qismiga kiradi:
+-asl biriktiruvchi to’qima
++maxsus xususiyatga ega biriktiruvchi to’qima
+-suyak to’qimasi
+-zich tolali shakllangan biriktiruvchi to’qima
+-siyrak tolali shakllanmagan biriktiruvchi to’qima
+
+
+##Melatonin ishlab chiqariladi:
++epifizda
+-gipofizda
+-gipotalamusda
+-fundal bezda
+-duodenal bezda
+
+##Pituitsitlar joilashgan:
++epifizda
+-gipofizda
+-gipotalamusda
+-fundal bezda
+-duodenal bezda
+
+##Biriktiruvchi to’qima tolalarini biosintezini amalga oshiradi:
+-makrofaglar
+-plazmatik hujayralar
++fibroblastlar
+-semiz hujayralar
+-adipotsitlar
+
+##Biriktiruvchi to’qimaning asosiy (amorf) molddasi oqsillarini sintezlaydi:
+-plazmatik hujayralar
++fibroblastlar
+-semiz Hujayralar
+-makrofaglar
+-adipotsitlar
+
+##Antitelolarni hosil qiladi:
+-fibroblastlar
+-semiz hujayralar
+-makrofaglar
++plazmatik hujayralar
+-melanotsitlar                                              
+
+##Qon yaratuvchi a'zolarning stromasini hosil qiladi:
+-siyrak tolali shakllanmagan biriktiruvchi to’qima
++retikulyar to’qima
+-yog’to’qimasi
+-zich tolali shakllangan biriktiruvchi to’qima
+-zich tolali shakllanmagan biriktiruvchi to’qima
+
+##Argirofil tolalar qaysi to’qimaning hujayralararo moddasi uchun xos:
+-yog’to’qimasi
+-suyak to’qimasi
+-tog’ayto’qimasi
++retikulyar to’qima
+-shilliqto’qima
+
+##Shilliq biriktiruvchi to’qima joylashgan:
+-tomirlarda
+-qon yaratuvchi a'zolarda
++kindik tizimchasida
+-naysimon suyaklarda
+-shilliq pardalarda
+
+##Suyakning bo‘g’im yuzasini hosil qiladi:
+-elastik tog’ay
++gialin tog’ay
+-tolali tog’ay
+-zich shakllangan biriktiruvchi to‘ima
+-siyrak tolali shakllanmagan biriktiruvchi to’qima
+
+##Suyak ko‘migi tomondan suyakni qoplaydi:
++endost
+-periost
+-endoteliy
+-yog’to’qimasi
+-endotenoniy
+
+##Suyakni tashqi tomondan qoplaydi:
+-endost
++periost
+-endoteliy
+-peritenoniy
+-endotenoniy
+
+##Osteoblast quyidagi jarayonda ishtirok etadi:
+-suyak to’qimasini parchalash
+-suyak to’qimasini oziqlantirish
++ suyak to’qimasining hujayralararo modda oqsillarini sintezlash
+-izogen guruhlarni xosil qilish
+-to‘g’ri javob yo’q
+
+##Suyak to’qimasining ko‘p yadroli hujayrasi:
+-osteoblast
+-osteotsit 
++osteoklast	
+-xondroblast
+-xondrotsit
+
+##Yurak mushagining taraqqiyot manbai:
+-ektoderma
++mioepikardial plastinka
+-mezenxima
+-mezoderma miotomlari
+-splanxnotomning pariEtal varag’i
+
+##Skelet mushagi tuzilgan:
+-miotsitlardan
++ko‘p yadroli mushak tolalaridan
+-kardiomiotsitlardan
+-mioepitelial hujayralardan
+-to‘g’ri javob yo’q
+
+##Mushak to’qimasi tuzilmalarining yo‘g’on filamentlari quyidagi oqsildan tuzilgan:
++miozin
+-aktin
+-troponin
+-tropomiozin
+-titin
+
+##Tish sementi qanday qismlar farqlanadi:
++hujayraviy va hujairasiz
+-tolali va tolasiz
+-kanalcha va prizma
+-periferik va markaziy
+-pulpa va kutikula
+
+##Oraliq disklar qaysi tuzilmaning tarkibiy qismi hisoblanadi:
+-skelet mushak to’qimasi
++yurak mushak to’qimasi
+-silliq mushak to’qima
+-mioepitelial hujayralar
+-to‘g’ri javob yo’q
+
+##Skelet mushak to’qimasining regeneratsiya manbai:
+-miotsitlar
++miosatellitotsitlar
+-regeneratsiya manbai yo’q
+-miosimplastlar
+-miofibroblastlar
+
+
+##Skelet mushak tolasining T-naychalari:
+-agranulyar endoplazmztik to’r hosilalari
++plazmolemma invaginatsiyalari 
+-granulyar endoplazmztik to’r hosilalari
+-Golji kompleksiningqismi
+-lizosoma turi
+
+##Psevdounipolyar neyronlar tutadi:
+-bir o‘simta
++ikki o‘simta
+-uch o‘simta
+-o‘simtalari yo’q
+-ko‘p o‘simta
+
+
+##Nerv hujayralarining maxsus organellasi hisoblanadi:
+-miofibrillalar
+-tonofibrillalar
++neyrofibrillalar
+-mikrovorsinkalar
+-miofilamentlar
+
+##Orqa miyaning markaziy kanali va miya qorinchalarini qoplaydi:
+-oligodendrsitlar
+-mikrogliya
+-protoplazmatik astrotsitlar
+-tolali astrotsitlar
++ependimogliotsitlar
+
+##Efferent nerv oxirini hosil qiladi: 
+-xarakatlantiruvchi neyron dendriti
++xarakatlantiruvchi neyron aksoni
+-sezuvchi neyron dendriti
+-sezuvchi neyron aksoni
+-oraliq neyron dendrite
+
+##Plazmolemma qanday vazifani bajaradi (Noto’g’ri fikrni ko’rsating):
++oqsil sintezi
+-retseptor
+-transport
+-hujayralarning o‘zaro birikishi
+-xarakatlanish
+
+##Qaysi tuzilma xisobiga hujayra ichiga moddalarning transporti amalga oshadi:
++plazmolemma
+-xujayralararo modda
+-lizosomalar
+-ribosomalar
+-mitoxondriyalar
+
+##Membranali organellalarga kirmaydi:
++ribosoma va polisomalar
+-mitoxondriyalar
+-endoplazmatik to’r 
+-Golji apparati
+-lizosomalar 
+
+##Mitoxondriyalarda tafovut qilinadi:
++tashqi va ichki membrana, perinuklear soxa, matriks
+-membrana, asosiy modda, teshik komlekslari, matriks
+-tashqiva ichki membranalar, kristalar, matriks
+-matriks, kristalar, perinuklear bo‘shliq, asosiy modda
+-tashqiva ichki membrana, kriptalar, matriks 
+
+##Hamma hujayralarda doimiy uchraydigan va ma'lum funktsiyani bajaruvchi tuzilma:
+-kiritma
+-yadro
+-sitoplazma
++umumiy organella
+-kiprikcha
+
+##Qaysi organelle bevosita moddalarni hujayra ichida xazm qilinishida qatnashadi:
++lizosoma
+-peroksisoma
+-endoplazmatik to‘r
+-sentriola
+-mitoxondriya
+
+##Donador endoplazmatik to‘rning vazifasi:
++eksport uchun oqsillar sintezi
+-uglevodlar sintezi
+-endogen va ekzogen moddalarni parchalash
+-retseptor
+-fermentativ
+
+##Embrionning og’iz epiteliysidan rivojlanadi:
++adenogipofiz
+-neyrogipofiz
+-gipotalamus
+-epifiz
+-neyrosekretor xujayralar
+
+##To’qimalarning kurtaklaridan hosil bo‘lish jarayoni - bu:
++gistogenez
+-proliferatsiya
+-metaplaziya
+-gastrulyatsiya
+-maydalanish
+
+##To’qimalarga xos bo‘lgan maxsus tuzilma va xususiyatlarning shakllanishi - bu:
+-integratsiya
+-proliferatsiya
+-metaplaziya
++differensialanish
+-determinatsiya
+
+##Adenogipofizning oldingi bo’limida joylashgan:
++somatotropotsitlar
+-melanotropotsitlar
+-lipotropotsitlar
+-pinealotsitlar
+-Gerring tanachalari
+
+##Adenogipofizning bazofil hujayralariga kiradi:
++gonadotropotsitlar
+-somatotropotsitlar
+-adrenokortikotropotsitlar
+-laktotropotsitlar
+-hromofoblar
+
+##To’qimaning hayot davomida doimo qaytadan tiklanib turish jarayoni:
++fiziologik regeneratsiya
+-reparativ regeneratsiya
+-differensiallanish
+-metaplaziya
+-proliferatsiya
+
+##To’qimalarning shikastlangandan so‘ng tiklanish jarayoni - bu:
+-fiziologik regeneratsiya
++reparativ regeneratsiya
+-metaplaziya
+-differensiallanish
+-proliferatsiya
+
+##To’qima xususiyatlarining o‘zgarishi va unda shu to’qimaga xos bo‘lmagan tuzilmalar paydo bo‘lishi jarayoni -bu:
+-proliferatsiya
++ metaplaziya
+-differensiallanish
+-regeneratsiya
+-integratsiya
+
+##Hozirgi zamon klassifikatsiyasi bo‘yicha asosiy to’qima turlar (Noto’g’ri javobni ko‘rsating):
+-nerv to’qimasi
+-mushak to’qimasi
+-ichki muqitto’qimasi
++suyak to’qimasi
+-tog’ayto’qimasi
+
+
+##Filogenetik klassifikatsiya bo‘yicha farqlanadigan epiteliy:
+-jigar epiteliysi
+-ko‘p qavatli yassi
++selomik
+-bir qavatli silindrsimon
+-bir qavatlikubsimon
+
+##Bir qavatli yassi epiteliy joylashgan:
+-siydik pufagida
++seroz pardalarda
+-jigarda
+-ingichka ichakda
+-bachadonda
+
+##Morfofunksional klassifikatsiya bo‘yicha farqlanadigan epiteliy:
+-ichak epiteliysi
+-ependimoglial epiteliy
+-teri epiteliysi
++ko‘p qavatli epiteliy
+-selonefrodermal
+
+##Bir qavatli prizmatik jiyakli yoki hoshiyali epiteliy uchraydi:
++ingichka ichakda
+-bronxda
+-siydik pufagida
+-plevrada
+-qizilo‘ngachda
+
+##Prizmatik epiteliy hujayralarining hoshiyasi nimadan iborat:
++mikrovorsinkalardan
+-kiprikchalardan
+-xivchinlardan
+-tonofibrillalardan
+-neyrofibrillalardan
+
+##Bir qavatli ko‘p qatorli hilpillovchi kiprikli epiteliy uchraydigan a'zo:
++havo o‘tkazuvchi yo‘llar
+-ingichka ichak
+-siydik pufagi
+-qizilo‘ngach
+-me'da
+
+##Nafas yo‘llarini qoplovchi epiteliy:
++bir qavatli ko‘p qatorli kiprikli
+-ko‘p kavatli yassi
+-bir kavatli yassi
+-o‘zgaruvchan
+-ko‘pqavatli ko‘p qatorli kiprikli 
+
+##Bir qavatli ko‘p qatorli epiteliy hujayralarining xususiyati:
+-mikrovorsinkalar tutishi
+-xivchinlar tutishi
++kiprikchalar tutishi
+-o‘simtalar tutishi
+-psevdopodiyalar tutadi
+
+##Ko‘p qavatli yassi muguzlanmaydigan epiteliy uchraydi:
+-siydik pufagida
++og’iz bo‘shliqida
+-teri epidermisida
+-kekirdakda
+-ipsimon so’rg’ichda
+
+##Ko‘p qavatli yassi muguzlanuvchi epiteliy uchun xos bo‘lgan qavat:
+-oraliq
++muguz
+-kiritma
+-yopqich
+-bazal
+
+##O‘zgaruvchan epiteliy uchraydigan a'zo:
+-teri epidermisi
+-to‘g’ri ichak
++siydik nayi
+-og’iz bo‘shlig’i
+-me'da
+
+
+##Ekzokrin bezlar o‘zining sekretini ajratadi:
+-hujayralararo moddaga
+-to’qima suyuqligiga
+-qon yoki limfaga
++tashqi muhit yoki bo‘shliqqa
+-faqat to’qima suyuqligiga
+
+##Endokrin bezlar o‘zining sekretini ajratadi:
+-ichak bo‘shlig’iga
+-siydikka
++qonga
+-tashqimuxitga
+-bronx bo‘shlig’iga
+
+##Bez hujayrasi sekretsiya vaqtida o‘z strukturasini to‘la saqlab qoladi, bu sekretsiyaning qaysi turiga xos:
+-golokrin
+-endokrin
+-apokrin
++merokrin
+-ekzokrin
+
+##Bez hujayrasi sekretsiya vaqtida butunlay parchalanadi, bu sekretsiyaning qaysi turiga xos:
++golokrin
+-apokrin
+-merokrin
+-endokrin
+-ekzokrin                                             
+
+##Bezni oxirgi sekretor bo‘limi seroz va shilliq hujayralar tutadi,bu bez:
+-oqsilli
+-shilliqli
++aralash
+-yog’ bezi
+-ter bezi
+
+##Sekretor siklning sekret sintezlanish fazasi qaysi organellada amalga oshadi:
+-mikronaychalarda
++endoplazmatik to‘rda
+-hujayra markazida
+-lizosomalarda
+-sentriolada
+
+##Sekretor siklning etilishi va shakllanish fazasi qaysi organellada amalga oshadi:
++Golji kompleksida
+-mitoxondriyada
+-hujayra markazida
+-mikronaychalarda
+-polisomalarda
+
+##Umumiy tuzilishga ega bo‘lib ma'lum bir funksiyani bajarishga ixtisoslashgan hujayra va hujayra bo‘lmagan tuzilmalarga aytiladi:
++ to’qima
+-organ
+-sintitsiy
+-xujayra
+-simplast
+
+##Elektron mikroskoplarda yorug’lik manbai;
++electron oqimi*
+-tabiiy yorug;lik
+- suniy yorug’lik
+-ultrabinafsha nurlari
+-infraqizil nurlanish
+ 
+##Epiteliy to’qimasi oziqlanadi:
+-xususiy qon tomirlar xisobiga
+-limfa tomirlari xisobiga
++bazal membrana orqali diffuz yo‘l bilan
+-to’qima suyuqligi xisobiga
+-me'da shirasi xisobiga
+
+##Endoteliy bilan qoplanadigan a'zo:
+-me'da
+-ichak
+-buyrak
++yurak
+-siydik qopi
+
+
+##Mezoteliy epiteliyning qaysi genetik tipiga mansub:
+-angiodermal
++selonefrodermal
+-ependimoglial
+-epidermal
+-mezenximal
+
+##Bir qavatli ko‘p qatorli kiprikli epiteliy tarkibidagi qadaxsimon hujayralarning funksiyasi:
++sekretor
+-tayanch
+-kambial
+-so‘rish
+-eritish
+
+##Melanotsitlar epidermisning qaysi qavatida joylashadi. 
+-muguz
++bazal
+-donador
+-yaltiroq
+-epidermisda joylashmaydi
+
+
+##Bir qavatli kubsimon epiteliy qayerda uchraydi. 
+-kekirdakda
+-qizilungachda
+-ingichka ichakda
++bezlarning chiqaruv naylarida
+-bachadonda                                                              
+
+##Gemoretikulotsitlar:
+-qari eritrotsitlar
+-o‘lgan eritrotsitlar
++yosh eritrotsitlar
+-yadro tutuvchi eritrotsitlar
+-o‘rta yoshli eritrotsitlar
+
+##Neytrofil leykotsitlar tarkibidagi birlamchi (azurofil) donachalar o‘zida saqlaydi:
+-geparin
+-gistamin
+-ishqoriy fosfataza
++kislotali fosfataza 
+-serotonin
+
+##Neytrofil leykotsitlar tarkibidagi ikkilamchi (maxsus) donachalar o‘zida saqlaydi:
+-miyeloperoksidaza
++ishqoriy fosfataza
+-kislotali fosfataza
+-gistamin
+-gidrolaza
+
+##Monotsitlar to’qimalarda qanday hujayralarga aylanadi:
++makrofaglarga
+-lipotsitlarga
+-fibroblastlarga
+-plazmotsitlarga
+-peritsitlarga
+
+##Odamda qon plastinkalari:
+-yadroli hujayralar
+-simplastlar
+-sinsitiylar
++megakariotsitlar sitoplazmasining parchalari
+-megakariotsitlar yadrosining parchalari
+
+##Epidermisda Merkel hujayralarida sinaps xosil qiladi:
++sezuvchi neyronning dendriti
+-sezuvchi neyronning aksoni
+-xarakatlantirubchi neyronning dendrite
+-xarakatlantirubchi neyronning aksoni
+-asotsiativ neyronning aksoni
+
+##Trombotsitopoez jarayonining morfologik jixatdan aniqlanishi mumkin bo‘lgan eng yosh hujayrasi:
+-miyeloblast
+-trombotsitoblast
++megakarioblast
+-monoblast
+-megakariotsit
+
+
+##Sog’lom voyaga yetgan odamda neytrofil leykotsitlarning foiz mikdori:
++65-75%
+-0-0. 5%
+-4-8%
+-30-35%
+-80-90%
+
+##Neytrofil leykotsitlarning asosiy vazifasi:
++fagotsitoz
+-kollagenogenez
+-antitelogenez
+-kislorod tashish
+-elastinogenez
+
+##Sog’lom voyaga etgan odamda eozinofil leykotsilarning qondagi foiz miqdori:
++2-5%
+-65-75%
+-0-0. 5%
+-4-8%
+-6-7%
+
+##Eozinofil leykotsilarning allergiya jarayonidagi ishtiroki nimadan iborat:
++ gistamin va anafilaksinni emirish
+-mikroblarni fagotsitoz qilish
+-antitelo ishlash
+-lizotsim ishlash
+-gistaminniishlab chiqish
+
+##Sog’lom voyaga yetgan odamda bazofil leykotsitlarning qondagi foiz miqdori:
++0-1%
+-4-8%
+-2-5%
+-65-75%
+-4-5%
+
+##Bazofil leykotsitlar donachalari tarkibiga xos:
++geparin va gistamin
+-lizotsim va amilaza
+-laktoferrin
+-arilsulfataza va lipaza
+-ishqoriy fosfataza
+
+##Bazofil leykotsitlarning asosiy vazifasi:
+-fagotsitoz
+-antitelogenez
+-gistaminni emirish
++gistamin va geparin ishlash
+-serotoninni emirish
+
+##Sog’lom voyaga yetgan odamda limfotsitlarning qondagi foiz mikdori:
++20-35%
+-2-5%
+-0-1. 0%
+-65-75%
+-40-45%
+
+##Odamda B-limfotsitlar xosil bo‘ladi:
++qizil suyak ko‘migida
+-taloqda
+-limfa tugunida
+-timusda
+-fabritsiyxaltasida
+
+##B-limfotsitlardan hosil bo‘ladi:
++plazmotsit
+-makrofag
+-fibroblast
+-peritsit
+-fibrotsit
+
+##Sog’lom voyaga yetgan odamda monotsitlarning qondagi foiz miqdori:
++6-8%
+-2-5%
+-20-35%
+-65-70%
+-10-11%
+
+
+##Qon plastinkalari uchun xos bo‘lmagan tuzilmalar:
+-donachalar
+-mitoxondriyalar
++yadro
+-mikronaychalar
+-yadrocha
+
+##Limfa suyuqligi tarkibida eng ko‘p uchraydigan shaklli elementlar:
+-eritrotsitlar
+-monotsitlar
++limfotsitlar
+-granulotsitlar
+-trombotsitlar
+
+##Embrionda qon yaratilishi dastlab qaysi a'zoda boshlanadi:
+-jigarda
+-talokda
+-timusda
++sariqlik xaltachasida
+-allantoisda
+
+##Voyaga yetgan odamda universal qon yaratuvchi a'zo bu:
+-jigar
+-taloq
+-timus
++suyak kumigi
+-limfa tuguni
+
+##Voyaga yetgan organizmda o‘zak hujayralarning asosiy manbai:
+-taloq
+-jigar
+-timus
++qizil suyak ko‘migi
+-sariqlik qopi
+
+##Qon yaratuvchi a'zolarda mikromuxitni tashkil qiluvchi to’qima:
++retikulyar to’qima
+-yog’ to’qimasi
+-suyak to’qimasi
+-pigment to’qimasi
+-shilliqto’qima
+
+##Eritropoez jarayonining morfologik jixatdan aniqlanishi mumkin bo‘lgan eng yosh hujayrasi:
+-pronormotsit
++eritroblast
+-gemoretikulotsit
+-miyeloblast
+-promiyelotsit
+
+##Eritropoez jarayonida hujayra sitoplazmasida sintezlanadigan asosiy modda:
+-immunoglobulin
+-karbonsuvlar
++gemoglobin
+-mioglobin
+-albumin
+
+##T- va B-limfotsitlarning boshlang’ich hujayralari qaysi a'zoda hosil bo‘ladi:
+-timusda
+-limfa tugunida
+-taloqda
++suyak kumigida
+-murtaklarda
+
+##Ichki muxit to’qimasining taraqqiyot manbai:
+-mezoderma
++mezinxima
+-splanxnotom
+-entoderma
+-ektoderma
+
+##Ikki tomonlama botiq disk shaklidagi eritrotsit:
+-stomatsit
+-exinotsit
++diskotsit
+-sferotsit
+-gumbazsimon 
+
+
+##Trombotsitlarning asosiy vazifasi:
+-hujayraviy immunitetni ta'minlash
+-fagotsitoz
++qon ivishida ishtirok etish
+-gumoral immunitetni ta'minlash
+-trofik
+
+##Eritrotsitlarning yosh shakllari:
+-sferotsitlar
+-stomatotsitlar
++gemoretikulotsitlar
+-exinotsitlar
+-megatsitlar
+
+##Leykotsitlarni biriktiruvchi to’qimada xarakatlanishini belgilaydi:
++xemotaksis
+-reotaksis
+-termotaksis
+-fototaksis
+-barotaksis
+
+##Sekretor donachalarida maxsus kristalloidi bor hujayra:
++eozinofil
+-neytrofil
+-bazofil
+-eritrotsit
+-limfotsit
+
+##Bazofil leykotsitlardagi donachalarning metaxromaziyasi bog’liq:
+-gistaminga
+-arilsulfatazaga
++geparinga
+-argininga
+-serotoninga
+
+##Hujayraviy immunitetning effektor hujayralari:
+-T-xelperlar
+-T-supressorlar
+-T-amplifaerlar
++T-killerlar
+-T- amplifaErlar
+
+##Leykotsitlar orasida eng ko‘p yashaydiganlari:
+-neytrofillar
+-eozinofillar
++limfotsitlar
+-monotsitlar
+-bazofillar
+
+##Eritropoetik qatordagi yadro tutmaydigan hujayra:
+-eritroblast
+-pronormotsit
+-normotsit
++gemoretikulotsit
+-normotsit
+
+##Qonning barcha shaklli elementlari rivojlanadi:
++o‘zak hujayradan
+-retikulotsitdan
+-osteoblastdan
+-angioblastdan
+-endoteliotsitlardan
+
+##Yangi tug’ilgan chaqaloqlar timusi olib tashlanganda sodir bo’ladi:
++limfoid a’zolarning atrofiyasi
+-kichik limfotsitlarning ko’payishi
+-immunitetning kuchayishi
+-qonda leykotsitlarning ko’payishi 
+-limfa tugunlarning kattalashishi 
+
+##Rus olimi I. M. Sechenov arteriolalarni nima deb atagan:
+-“Ajoyib to’r”
++“Qon tomirlar jo’mragi”
+-magistral qon tomirlar
+-markaziy qon tomirlar
+-tutashuvchi qon tomirlar
+
+##Chig’anoqning spiral gangliyida joylashgan:
++bipolyar neyronlar
+-psevdounipolyar neyronlar
+-multipolyar neyronlar
+-unipolyar neyronlar
+-gorizontal neyronlar
+
+##O‘zak hujayralar qaysi hujayralarga o‘xshaydi:
++limfotsitlarga 
+-monotsitlarga
+-makrofag
+-makrofaglarga
+-eritrotsitlarga
+
+##Yelka venasi qaysi turdagi qon tomirga mansub:
+-mushaksiz venalarga
+-mushak elementlari kuchsiz rivojlangan venalarga
+-mushak elementlari kuchli rivojlangan venalarga
++mushak elementlari o’rtacha rivojlangan venalarga
+-mikrotsirkulyator qon tomirlarga
+
+
+##Qonda qaysi shaklli elementlar stomatotsitlarga aylanishi mumkin:
++eritrotsitlar
+-monotsitlar
+-trombotsitlar
+-bazofil granulotsitlar
+-limfotsitlar                                                
+
+##Makrofaglar hosil bo‘ladi:
++monotsitlardan
+-limfoblastlardan
+-fibroblastlardan
+-retikulyar xujayralardan
+-labrotsitlardan
+
+##Makrofaglarning asosiy vazifasi:
++fagotsitoz va immun reaksiyalarda ishtrok etish
+-antitelolar ishlab chiqarish
+-xujayralararo modda sintezlash
+-tayanch va trofik
+-qon xosil qilish
+
+##Plazmatik hujayralarni hosil qiladi:
++B-limfotsitlar
+-T-limfotsitlar
+-monotsitlar
+-retikulotsitlar
+-limfoblastlar
+
+##Plazmatik hujayralarning asosiy vazifasi:
++immunoglobulinlarni ishlab chiqarish
+-geparin va gistamin ishlab chiqarish
+-fagotsitoz
+-tolalar va xujayralararo moddani sintezlash
+-serotonin ishlabchiqarish
+
+##Yog’ hujayralari xosil bo‘ladi:
++adventitsial hujayralardan
+-plazmatik hujayralardan
+-limfoblastlardan
+-monotsitlardan
+-peritsitlardan                             
+
+##Pigment hujayralarining taraqqiyot manbai:
++nerv qirrasi
+-mezenxima
+-epiteliy
+-o‘zak xujayra
+-nervplastinkasi
+
+##Melanin sintezlovchi hujayra:
++melanotsitlar
+-melanoforlar
+-melanotropotsitlar
+-adipotsitlar
+-retikulyarxujayralar
+
+##Biriktiruvchi to’qimaning pishiqligini ta'minlaydi:
++kollagen tolalar
+-elastik tolalar
+-retikulyar tolalar
+-xondrin tolalari
+-argirofil tolalar
+
+##Qo’ng’ir   yog’ to’qimasi ko’proq uchraydi:
++yangi tug’ilgan chaqaloqlarda
+-qariyalarda 
+-homiladorlikda
+-ayollarda laktatsiya davrida
+-patologik xollarda
+
+##Siyrak tolali biriktiruvchi to’qimaning elastikligi va cho‘ziluvchanligini ta'minlaydi:
++elastik tolalar
+-kollagen tolalar
+-retikulyar tolalar
+-argirofil tolalar
+-xondrintolalar
+
+##To’qima bazofillaridan biologik aktiv moddalarning tashqariga chiqarilish jarayoni:
++degranulyatsiya
+-ekskretsiya
+-sekretsiya
+-granulyatsiya
+-apoptoz
+
+##Suyak to’qimasining rivojlanishi qanday ataladi:
++osteogistogenez
+-osteomalyatsiya
+-osteoporoz
+-osteofibroz
+-rezorbtsiya
+
+##Yallig’lanish soxasida ko‘p uchraydigan hujayra:
++leykotsit 
+-monotsit
+-bazofil
+-eozinofil
+-trombotsit
+
+##Chin tovush bog’lamlarini hosil qiladi:
++elastik tolalar 
+-kollagen tolalar
+-retikulyar tolalar
+-xondrin tolalar
+-osseintolalar
+
+##Mushak to’qimasida mioglobinning vazifasi :
+-mexanik-tayanch
++kislorodni bog’lash
+-miocytlarni o’zaro bog’lash
+-trofik
+-qisqarish
+
+##Tog’ay  to’qimasining taraqqiyot manbai:
++mezenxima
+-ektoderma
+-plakodalar
+-miotom
+-dermatom
+
+##Timusning mag’iz moddasi:	
++retsirkulatsiyа  qiluvchi T-limfotsilar tutadi
+-gematotimus to’sig’ini tutadi 
+-T-limfotsitlar zich joylashgan
+-preparatlarda to’q bo’yalgan
+-T-limfotsitlar tutmaydi
+
+##Tog’ay  to’qimasi  quyidagilardan tuzilgan:
++xondrotsit, xondroblast va hujayralararo modda
+-xondrotsitlar, retikulyar tolalar va qon tomirlari
+-xondrotsitlar va xondroblastlar
+-xondrotsitlar, xondroblastlar vaqon tomirlar
+-xondrotsit, osteoblast va hujayralararo modda 
+
+##Gialin tog’ay  to’qimasi uchraydi:
++xavo o‘tkazuvchi yo‘llar
+-quloq suprasi
+-umurtqalararo disk
+-paylarda
+-aponevrozlarda
+
+##Elastik tog’aydan tuzilgan:
++quloq suprasi tog’ayi
+-bo‘g’im yuzasi tog’ayi
+-traxeyaning fibroz-tog’ayqavati
+-umurtqalararo disklar
+-bronxlardevori
+
+##Tolali tog’ay  to’qimasi uchraydi:
+-quloq suprasida
+-bo‘g’im yuzasi tog’ayida
+-havo o‘tkazuvchi yo‘llarda
++umurtqalararo diskda
+-traxeyada
+
+##Umurtqalararo disklar tashkil topgan:
+-gialin tog’aydan
+-elastik tog’aydan
++tolali tog’aydan
+-retikulyar to’qimadan
+-pulpozyadrolardan
+
+##Traxeya devorida joylashgan tog’ay turi:
++gialin
+-elastik
+-tolali 
+-retikulofiboz
+-fibroz
+
+##Miosimplast bu:
++ko’p yadroli mushak tolasi
+-1-2 yadroli mushak xujayrasi
+-miofibrillaning struktur birligi
+-kambial xujayra
+-mushakning qisqaruvchi apparati
+
+##Suyak to’qimasining quyidagi turi farqlanadi:
++retikulofibroz
+-tolali
+-fibroz
+-gialin
+-elastik
+
+##Tog’ay modeli o‘rnida suyak hosil bo‘lishi naysimon suyakning quyidagi qismidan boshlanadi:
++diafiz
+-epifiz
+-metafiz
+-metaepifizar plastinka
+-epifizar plastinka 
+
+##Quyidagi  hujayralarning qaysi biri qondagi monotsitlardan xosil bo’ladi:
+-osteoblast
+-osteotsitlar
++osteoklast
+-xondroblast
+-xondrotsit
+
+##Suyak usti pardasida  piramidasimon shaklli, ishqoriy fosfataza fermentining faolligi yuqori bo‘lgan hujayra bu:
++osteoblast
+-osteotsit
+-osteoklast
+-xondroblast
+-fibroblast
+
+##Burmador-xoshiyali yuzaga ega, ko‘p yadroli suyak to’qimasiga tegishli hujayraning nomini ko‘rsating:
+-osteoblast
+-osteotsit
++osteoklast
+-xondroblast
+-xondrotsit
+
+##Suyak to’qimasining parchalanishini amalga oshiradigan hujayra:
++osteoklast
+-osteotsit
+-osteoblast
+-xondroblast
+-xondrotsit
+
+##Suyak to’qimasining hujayralararo moddasini sintezlaydi:
++osteoblastlar
+-fibroblastlar
+-xondroblastlar
+-osteotsitlar
+-xondrotsitlar
+
+##Suyak to’qimasining hujayralararo moddasi tuzilgan:
++kollagen tolalar va amorf moddadan
+-elastik tolalar va amorf moddadan
+-kollagen va retikulyar tolalardan
+-osteoblastlar va retikulyar tolalardan
+-retikulyar tolalar va amorf moda
+
+##Osteonlar orasida joylashadi:
++oraliq plastinkalar
+-bazal membrana
+-tashqiumumiy plastinkalar
+-Ichki umumiy plastinkalar
+-endost
+
+##Oraliq plastinka, bu:
++parchalangan osteonlarning qoldiqlari
+-tashqiumumiy plastinkalarning davomi
+-ichki umumiy plastinkalarning bir qismi
+-osteotsitlarni birlashtiruvchi tuzilma
+-oraliqumumiyplastinkalarning davomi
+
+##Osteon, bu:
+-hujayra
+-tola
+-hujayralararo modda
++struktur-funksional birlik
+-suyaklar tutami
+
+##Ko‘ndalang-targ’il skelet mushak tolasining qisqaruvchi apparatini hosil qiladi:
++miofibrilla
+-sarkoplazma
+-yadro
+-sarkolemma
+-sitolemma
+
+##Ko‘ndalang-targ’il skelet mushak tolasining trofik apparatini hosil  qiladi:
+-yadro va miofibrilla
+-miofibrillava mitoxondriya
++yadro  va  organellalar
+-sarkolemma
+-sarkoplazma
+
+##Mushak to’qimasi  preparatida  duksimon  shaklli, markazida cho‘ziq tayog’chasimon yadro tutgan  hujayralar ko‘rinmoqda, bu:
++silliq  mushak to’qimasi
+-ko‘ndalang-targ’il yurak mushagi
+-ko‘ndalang-targ’il skelet mushagi
+-mioepitelial hujayralar
+-mushak duklari
+
+##Miofibrillar tuzilgan:
++aktin va miozin  protofibrillalaridan
+-aktin protofibrillalari va nozik kollagen tolalardan
+-oraliq plastinkalar va miozindan
+-aktin vanebulin oqsillaridan
+-aktin protofibrillalari va nozik elastik tolalardan
+
+##Ingichka protofibrillalar  tutadigan  oqsil:
++aktin
+-miozin
+-nebulin
+-protonin
+-arginine
+
+##A-disk o‘zida tutadi:
++miozin va qisman aktin
+-miozin iplari va T-naychalar
+-aktin va oraliq plastinkalar
+-faqatgina aktin iplari
+-aktin va qismanmiozin ipchalari
+
+##I-disk o‘zida    tutadi:
++faqat aktin iplari
+-faqat miozin iplari
+-aktin va miozin iplari
+-oraliq plastinkalar
+-tubulin oqsili
+
+##Ko‘ndalang- targ’il skelet mushak tolasi tuzilgan:
++miosimplast  va miosatellitotsitlardan
+-faqat miosimplastdan
+-faqat miosatellitotsitlardan
+-miosiplast va sarkolemmadan
+-miosintitsiy va miosatellitotsitlardan. 
+
+##Miosatellit  hujayralarining  vazifasi:
+-qisqarish
+-impuls o‘tkazish
+-ximoya
++kambial
+-fagotsitoz
+
+##Ko‘ndalang-targ’il skelet mushagidan iborat:
++til
+-miokard
+-me'daning mushak pardasi
+-bachadon miometriysi
+-qovuq mushagi
+
+##Ko‘ndalang-targ’il skelet mushagining energetik apparatini hosil qiladi:
++sarkosoma
+-sarkolemma
+-sarkoplazma
+-sarkomer
+-sarkoplazmatikretikulum
+
+##Mezenximadan rivojlanadigan mushaklar:
+-mioepiteliotsitlar
++silliq mushaklar
+-ko‘ndalang-targ’il mushaklar
+-yurak mushaklari
+-sintitsiy
+
+##Simplast tuzilishiga ega:
+-yurak mushagi
+-silliq mushak
++skelet mushagi
+-mioepitelial hujayralar
+-mushak duklari
+
+##Miofibrillaning morfofunksional birligi:
++sarkomer
+-mion
+-miosimplast
+-miofibrilla
+-osteon
+
+##Skelet mushak to’qimasining regeneratsiyasini ta'minlaydi:
+-miosimplast
+-mioblast
+-miofibrilla 
++miosatellitotsit
+-sintitsiy
+
+##Mushak tolalari guruxlari nima bilan o‘ralgan
+-endomiziy
++perimiziy
+-epimiziy
+-sarkolemma
+-perinevriy
+
+##Nerv  to’qimasining taraqqiyot manbai:
++ektoderma
+-entoderma
+-mezoderma
+-mezenxima
+-splanxnatom
+
+##Mikrogliyaning taraqqiyot manbai:
++monotsitlar
+-megakariotsit
+-neyroblast
+-spongioblast
+-eritroblast
+
+##Etuk organizmda uchramaydigan neyronlar:
++unipolyar
+-bipolyar
+-multipolyar
+-psevdounipolyar
+-unipolyarvabipolyar
+
+##Neyron  sitoplazmasining maxsus tuzilmalari:
++neyrofibrilla
+-tonofibrilla
+-miofibrillalar
+-mikrofibrilla
+-mikronaychalar
+
+##Ranvye bo‘g’iqlari uchraydi:
++miyelinli nerv tolasida
+-miyelinsiz nerv tolasida
+-neyronlararo sinapslarda 
+-erkin nerv oxirlarida
+-erkinbo‘lmagannerv oxirlarida 
+
+##Miyelinli nerv tolalari uchun xos:
++impulsning sakrab-sakrab saltator o‘tkazilishi
+-impulsning bir tekisda o‘tkazilishi
+-impulsning sekin o‘tkazilishi
+-impuls o‘tkazmaslik
+-impulsning notekisda o‘tkazilishi
+
+##Nerv oxirlarining quyidagi turi farq  qilinadi:
+-vegetativ
+-oraliq
++retseptor
+-assotsiativ
+-komissural
+
+##Nerv   to’qimasining tarkibiy qismi:
++neyron va neyrogliya
+-neyronlar va sinapslar
+-neyrogliya va nerv oxirlari
+-neyrogliya va neyroblastlar
+-neyronlar va nerv oxirlari
+
+##Medulloblastlardan xosil bo‘luvchi hujayralar:
++neyroblast va spongioblast
+-neyrotsitlar va mikrogliotsitlar
+-mikrogliotsitlar va melanotsitlar
+-xromafin xujayralar
+-melanoforlar
+
+
+
+
+2 ta  javobli
+
+##Neyronning maxsus tuzilmalarini ko'rsating:                                   
++bazofil modda
++neyrofibrillalar
+-miofibrillalar
+-Golji majmuasi
+
+##Erkin bo'lmagan nerv oxirlari tuzilgan:
++o'q silindr tarmoqlaridan
++lemmotsitlardan
+-biriktiruvchi to'qimali kapsulaga o'ralgan o'q silindrdan
+-astrotsitlardan
+
+##Mielinli nerv tolalari uchun xos:
++qo'zg'alishni saltatoro'tkazish
++impulsni o'tkazish tezligi yuqori
+-qo'zg'alishnibir tekis o'tkazish
+-qo'zg'alishnisekin o'tkazish
+
+##Periferik nerv tarkibida bo'ladi:
++mielinli va mielinsiz nerv tolalari
++biriktiruvchi to'qimali tutamlar
+-faqat mielinli nerv tolalari
+-neyron va nerv tolalari
+
+##Keltirilgan tomirlarning qaysilari elastik tipidagi arteriyaga kiradi:
++aorta
++o'pka arteriyasi
+-uyqu arteriyasi
+-yurak arteriyalari
+
+##Mushak elementlari kuchli rivojlangan venalarni ko'rsating:
++pastki kavak
++son
+-yuqorigi kavak
+-elka
+
+##Son venasining endoteliy osti qavati tashkil topgan:
++siyrak tolali biriktiruvchi to'qimadan
++silliq mushak hujayralarining bo'ylama qavatidan
+-zich tolali biriktiruvchi to'qimadan
+-silliq mushak hujayralarining sirkulyar qavatidan 
+
+##Gemolimfatik tugunlarning limfa tugunlaridan farqi:
++limfatik follikulalari kam
++ mag`iz sinuslari keng 
+-po'stloq moddasining hajmi katta
+-limfatik follikulalar ko'p, trabekulalari qalin
+
+##Yosh o'tgan sari limfa tugunlarda:
++germinativ markazlar yo'qoladi
++kapsula qalinlashadi
+-trabekulalar soni kamayadi
+-kapsula yupqalashadi
+
+##Timusdan kelgan T-limfotsitlar joylashadi:
++limfatik tugunlarning parakortikal zonasida
++taloqning oq pulpasida
+-limfatik tugunlarning ko'payish markazida
+-limfatik tugunlarning mag’iz tasmalarida
+
+##Timusdagi T-limfotsitlarning mikroo'ramini hosil qiladi:
++retikulo epithelial hujayralar
++makrofaglar
+-retikulotsitlar
+-neytrofillar
+
+##Limfatik tugunlarning parakortikal zonasida ko'p bo'ladi:
++interdigitirlovchi hujayralar 
++T- limfotsitlar
+-B-limfoblastlar
+-granulotsitlar
+
+
+##Gipofizning bazofil hujayralariga kiradi:
++tireotrop
++gonadotrop
+-kortikotrop
+-somatotrop
+
+
+##Osteoklastlarning o'ziga xos belgilari:
++ko'p yadroli
++lizosomalar soni ko'p
+-organellalar sust rivojlangan
+-tsitoplazmasidagi maxsus donachalari
+
+##Miofibrillalar nimadan tuzilgan:
++aktin filamentlaridan
++miozin filamentlaridan
+-tubulindan
+-mioglobindan
+
+##Ko'ndalang-targ’il mushak tolasi tashkil topgan:
++miosimplastlardan
++miosatellitotsitlardan
+-faqat miosimplastlardan
+-mushak hujayralaridan
+
+##Miosimplast triadasida bo'ladi:
++sarkoplazmatik to'rning oxirgi sisternalari
++T- naycha
+-sarkosomalar va T-naychalar
+-donadorendoplazmatik to'r tsisternalari
+
+##Sarkolemma tuzilgan:
++bazal membranadan
++simplast plazmolemmasidan
+-faqat bazal membranadan
+-T-naycha va bazal membranadan
+
+##Nerv tolalarining mielinli qavatida bo'ladi:
++lipidlar
++oqsillar
+-neyron o'siqchalari
+-neyrofibrillalar
+
+##Qisqarish jarayonida sarkomerda sodir bo’ladi:
++I-disklar qisqaradi
++H-zona qisqaradi
+-I-disk va H-zonalar kengayadi
+-A-disk torayadi
+
+
+##Qon kapillyarlari devorida bo'ladi:
++peritsitlar
++endoteliotsitlar
+-miotsitlar va peritsitlar
+-endoteliotsitlar va miotsitlar
+
+##Qizil suyak ko'migidagi mikromuhit hujayralari:
++makrofaglar
++retikulotsitlar
+-fibroblastlar
+-adipotsitlar
+
+##Timus aksidental involyutsiyasida:
++po'stloq va mag’iz moddasining chegarasi aniq emas
++limfotsitlar parchalanadi 
+-po'stloq va mag’iz moddasining chegarasi aniq
+-limfotsitlar proliferatsiyasi kuzatiladi
+
+##Timusning po'stloq moddasidagi asosiy hujayralari:
++T-limfotsitlar vaT-limfoblastlar
++epitelioretikulotsitlar
+-T-limfoblastlar va retikulyar hujayralar
+-epitelioretikulyar va plazmatik hujayralar
+
+##Taloqdagi limfoid follikulalarining ko'payish markazida joylashgan:
++retikulyar hujayralari, B-limfoblastlar
++makrofaglar, dendritik hujayralar
+-limfotsitlar va plazmotsitlar
+-T-limfotsitlar, interdigitirlovchi hujayralar
+
+##Sekretsiya turiga ko'ra ter bezlari bo'ladi:
++merokrin
++apokrin
+-merokrin va golokrin
+-faqat apokrin 
+
+##Qizilo'ngachning tashqi pardasi:
++ko'krak qismida adventitsial
++qorin qismida –seroz
+-faqat adventitsial
+-ko'krak qismida seroz, qorin qismida adventitsial
+
+##Immun jarayonda ishtirok etuvchi biriktiruvchi to'qima hujayralari:
++ makrofaglar
++plazmotsitlar
+-fibroblastlar
+-adipotsitlar
+
+##Zich tolali biriktiruvchi to'qimaning asosiy hujayralari:
++fibrotsitlar
++fibroblastlar
+-retikulotsitlar
+-plazmotsitlar
+
+##Qaysi ichki a'zolarda ko'ndalang-targ’il mushak to'qimasi bo'ladi?
++yurakda
++qizilo'ngachda
+-siydik qopida
+-bachadonda
+
+##Astrotsitlarning vazifasi:
++tayanch
++neyronlarni izolyatsiya qilish
+-sekretor
+-mielinli nerv tolalarining pardasini qosil qilish
+
+
+##Aortaning o'rta qavatida bo'ladi:
++silliq miotsitlar 
++elastik tolalar
+-ko'ndalang-targ’il mushak tolalari
+-ichki elastik membrana
+
+##Darchali elastic membranalar bo'ladi:
++elastik tipidagi arteriyalarda
++aralash tipidagi arteriyalarda 
+-mushak tipidagi arteriyalarda
+-mushak elementlari kuchli rivojlangan venalarda
+
+##Qaysi venalarda klapanlar bo'ladi:
++son
++elka
+-darvoza
+-yuqori kavak
+
+##Limfatik tugunlarning po'stloq moddasida qanday limfatik sinuslar joylashgan:
++kapsula osti
++oraliq
+-trabekulalararo
+-markaziy
+
+##Taloqning oq pulpasi tarkibiga kiradi:
++limfatik follikulalar
++ markaziy arteriya
+-pulpar tasmalar
+-trabekulalar
+
+##Limfotsitlarning antigenga bog’liq bo'lmagan differentsirovkasi qayerda amalga oshiriladi:
++timusda 
++qizil suyak ko'migida
+-taloqda
+-limfatik tugunlarda
+
+
+##Merokrin tipida sekretsiyalanadigan bezlar:
++so'lak
++me'da osti
+-sut
+-yo’q
+
+
+##Mikrovorsinka -bu: 
++plazmolemma bilan chegaralangan sitoplazm o'simtalari
+-xivchinlar tarkibiy qismi
+-kiprikchalar tarkibiy qismi
++ingichka ichak epiteliotsitlari tarkibiy qismi
+
+##Lizosomalarning funktsiyalari:
++hujayra ichi hazmlanish jarayonida qatnashish
++fagotsitozda qatnashish
+-sitoskeletni qosil qilish
+-lipidlar sintezida qatnashish
+
+##Yadro quyidagi vazifalarni bajaradi:
++irsiy axborotni saqlash va uzatish
+-lizosomalarni xosil qilish
++oqsil sintezini boshqarish
+-ribosomalar sintezi
+
+##Yadro qobig’i tarkibiga kiradi:
++perinuklear bo'shliq bilan ajralgan ikki membrana
++yadro teshigi
+-yadrocha
+-mikronaychalar
+
+##Akrosoma quyidagi fermentlarni tutadi:
++tripsin
+-maltaza
++gialuronidaza
+-amilaza
+
+
+##Donasiz leykotsitlarga kiradi:
++limfotsit
+-neytrofil
+-eozinofil
++monotsit
+
+##Asl biriktiruvchi to'qima turiga kiradi:
++zich tolali biriktiruvchi to'qima 
+-yog’ to'qimasi
+-retikulyar to'qima
++siyrak tolali biriktiruvchi to'qima
+
+##Tog’ayning oziqlanishini ta'minlaydi:
++perixondr qon tomirlari
++ sinovial suyuqlik
+-tog’ay to'qimasi qon tomirlari
+-gidrofil hujayralararo modda
+
+##Neyrofibrillalarning funktsiyalari:
++sitoskeletni hosil qilish
+-oqsil sintezi
++aksonal transport
+-mediatorlar sintezi
+
+##O’zida tigroid modda tutmaydi:
+-perikarion
+-dendritlar
++akson
++akson tepaligi
+
+##Quyidagi javoblardan membranali organellarni belgilang:
++mitoxondriya
++endoplazmatik to'r
+-sentriola
+-ribosomalar
+
+##Membranali organellalarga qaysi organellar kiradi:
++lizosomalar
++peroksisomalar
+-mikrofilamentlar
+-mikronaychalar
+
+##Membranali organellalarni ko'rsating:
++mitoxondriya
++kompleks Golji
+-liposomalar
+-ribosomalar
+
+##Mitoxondriyalarning tuzilishi:
++ichki membranasi kristalar hosil qiladi
++xususiy genetik apparati bor
+-ribosomalari sitoplazma ribosomalariga o'xshash
+-tashqi membranasi kristalar hosil qiladi
+
+##Mitoxondriyalarga xos xususiyatlarni ko'rsating:
++bo'linib yangilanadi
++kristalarda kislotali fosforllanish sodir bo'ladi
+-tashqi membrana kristalar hosil qiladi
+-matriksida nukleoid bor
+
+##Lizosomalar– bu: 
++membrana bilan o'ralgan
++gidrolitik fermentlar tutuvchi organella
+-kristalloidlarga ega
+-bo'linish yo'li orqali qayta yangilanadi
+
+##Hujayralararo birikmalar turlarini ko'rsating:
++oddiy birikmalar
++desmosoma
+-murakkab birikmalar
+-diktiosoma
+
+##Qanday birikmalar hujayralararo birikmalar turlariga kiradi:
++zich birikmalar
++tirqishsimon birikmalar
+-zich tanachalar
+-mikrofilamentlar
+
+##Quyidagilardan hujayralararo birikmalar turlarini belgilang:
++oddiy birikmalar
++sinapslar
+-Z - chiziq
+-zich tanachalar
+
+
+##Bir qavatli jiyakli epiteliy uchraydi:
++o't pufagida
++buyrak proksimal naychasida
+-traxeyada
+-buyrakning distal naylarida
+
+##Bir qavatli jiyakli epiteliy qaysi a'zolarni qoplaydi:
++ingichka ichakda
++yirik o't yo'llarida
+-uruq olib chiquvchi naychalarda
+-qinda
+
+##Qaysi a'zolarning shilliq qavatida bir qavatli jiyakli epiteliy uchraydi:
++me'da osti bezining yirik chiqaruv naylari
++o't pufagida
+-buyrakning distal naylarida
+-buyrakning yig’uv naylarida
+
+##Qaysi a'zolarning shilliq qavati ko'p qavatli epiteliy bilan qoplagan:
++og’iz bo'shliqini
++qizilo'ngachni
+-o't qopini
+-me'dani
+
+##Ko'p qavatli epiteliy quyidagi a'zolardan qaysilarini qoplagan:
++qovuqni
++siydik nayi
+-bachadonni
+-bronxlarni                              
+
+##Murakkab bezlar qaysilar kiradi:
++yirik so'lak bezlari
++sut bezlari
+-fundal bezlari
+-bachadon bezlari
+
+##Murakkab bezlarni ko'rsating:
++me'da osti bezi
++duodenal
+-yog bezlari
+-ter bezlari
+
+##Quyidagilardan qaysi bezlar murakkab bezlarga kiradi:
++qizilqngachning xususiy bezlari
++duodenal
+-me'da bezlari
+-til so'lak bezlari
+
+##Ekzokrin bezlar tuzilishiga ko'ra bo'linadi:
++oddiy
++murakkab
+-merokrin
+-golokrin
+
+##Ekzokrin bezlar naylari tuzilishiga ko'ra bo'linadi:
++tarmoqlangan
++tarmoqlanmagan
+-mikroapokrin
+-makroapokrin
+
+##Ekzokrin bezlar oxirlari tuzilishiga ko'ra bo'linadi:
++ alveolyar
++naysimon
+-oqsilli
+-shilliq
+
+##Bazofillarning donachalarida bo'ladi:
++gistamin 
++geparini 
+-glikogen
+-glyukogon
+
+##Bazofillarning tuzilishini ko'rsating
++yadro kuchsiz segmentlangan
++yirik bazofil donachalargaega
+-yadro taqasimon
+-ko’p lizosoma tutadi
+
+##Bazofillar – bu:
++leykotsitlar umumiy sonining 0,5-1 % ni tashkil etadi
++gistamin va geparin tutadi
+-leykotsitlarning 5% ini tashkil etadi
+-ko'plab glikogen donachalarini tutadi
+
+##Granulotsitopoezda hujayralarda qanday o'zgarishlar yuzaga keladi:
++rivojlanish davrida yadro shakli o'zgaradi
++metamielotsit davrida bo'linish xususiyatini yo'qotadi
+-mielotsit davrida bo'linish xususiyatini yo'qotadi
+-rivojlanish davomida qujayralar qajmi yiriklashadi
+
+##Granulotsitopoezda hujayralarda nimalar hosil bo'ladi:
++mielotsit davrida ikkilamchi granulalar paydo bo'ladi
++promielotsit davrida birlamchi granulalar paydo bo'ladi
+-mieloblast davrida birlamchi granulalar paydo bo'ladi
+-ikkilamchi granulalar promielotsit davrida paydo bo'ladi
+
+##Granulotsitopoezda bo'ladigan jarayonlar:
++metamielotsit qonga chiqa oladi
++rivojlanish davrida yadro shaklio'zgaradi
+-metamielotsit qonga chiqa olmaydi
+-rivojlanish jarayonida yadro kattalashadi
+
+##Siyrak tolali biriktiruvchi tuqima hujayralariga nimalar kiradi:
++semiz
++fibroblast
+-osteoblast
+-osteoklast
+
+##Siyrak tolali biriktiruvchi to’qima hujayralarini belgilang:
++plazmotsit
++adipotsit
+-osteotsit
+-mieloblastlar
+
+##Zich biriktiruvchi to'qimaning siyrak biriktiruvchi to'qimadan hujayraviy tuzilishiga ko'ra asosiy farqlari:
++asosiy moddasi kam
++asosiy hujayralari fibroblast va fibrotsitlar
+-keng tarqalgan xujayrasi- makrofag
+-hujayra turlari ko'p
+
+##Elastik tog’ayining gialin tog’ayidan farqi quyidagilar:
++tiniq emas
++ohaklanmaydi
+-asosiy moddasi gomogen tiniq
+-tog’ay usti pardasi yo'q
+
+##Tolali tog’ayga xos xususiyatlar:
++gialin tog’ay bilan chegaradosh
++toqay usti pardasi yo'q
+-oqaklanadi
+-tog’ay usti pardasi bor
+
+##Qaysi xususiyatlar tolali tog’ay uchun xos:
++kollagen tolalar parallel tutamlar hosil qiladi
++umurtqalararo diskda joylashgan
+-kekirdakda uchraydi
+-hujayralararo modda kam
+
+##Osteoklastlarga xos xususiyatlarni belgilang:
++bir nechta yadro tutadi
++katta o’lchamga ega
+-ikki yadroli
+-duksimon shaklli
+
+##Osteoklastlarga xos ta'rifni ko'rsating:
++burmali hoshiyasi bo'ladi
++hujayra ichi tuzilmalari zonalar qosil qilib joylashgan
+-sitoplazmaning butun yuzasi bo'yicha o'simtalari bor
+-lipid kiritmalari ko'p
+
+##Qaysi organellalar osteoklastlarda ko'p:
++mitoxondriyalar 
++ lizosomalar
+-ribosomalar
+-silliq endoplazmatik to'r
+
+##Osteotsitlarga xos ta'rif:
++suyak bo'shliqlarida joylashgan
++bo'linmaydilar
+-bo'linishi mumkin
+-suyak usti pardasining ichki qavatida joylashgan
+
+##Osteotsitlarga xos ta'rif:
++o'simtali shaklga ega
++to'qima suyuqligi hisobiga oziqlanadi
+-suyak plastinkalarida quruq bo'lib joylashadi
+-yumaloq shaklda, o'simtalari bo'lmaydi
+
+##Osteotsitlarga xos ta'rif:
++organellalari kam rivojlangan
++hujayra markazi bo'lmaydi
+-mitoxondriyalar, donador EPT ko'p
+-hujayra markazi yaxshi rivojlangan
+
+##Ko'ndalang-targ’il mushak to'qimasining tuzilishi:
++mushak tolalaridan iborat
++har bir mushak tolasi endomiziy bilan o'ralgan
+-hujayra tuzilishiga ega
+-har bir mushak tolasi perimiziy bilan o'ralgan
+
+##Ko'ndalang-targ’il mushak to'qimasi:
++miotomlardan hosil bo'ladi 
++mushak tolalaridan iborat
+-yadrolari mushak tolalarining markazida joylashgan
+-miofibrillalari uch o'lchamli to'r hosil qiladi
+
+##Erkin nerv oxirlarini ko'rsating:
++epiteliyda uchraydi
++dendridning oxirgi tarmog’i
+-aksonni so'nggi tarmog’i
+-kapsula bilan o'ralgan
+
+##Erkin nerv oxirlariga xos xususiyatlar:
++epiteliyda uchraydi
++sezuvchi epiteliotsitlar bilan aloqada bo'ladi
+-plastinkasimon tanachalar tarkibiga kiradi
+-aksonni so'nggi tarmog’i
+
+
+##Miyacha po'stlog’idagi hujayra turlari ko'rsating:
++duksimon
++Purkine hujayralari
+-Bets hujayralari
+-qadahsimon
+
+
+
+##Adenogipofizning xromofil hujayralariga kiradi :
++ somatotropotsit
++ mammotropotsit
+-paratireotsit
+-gonadotropotsitlar
+
+##Qalqonsimon oldi bezining bosh hujayralari xususiyatini ko'rsating:
++sitoplazmasi bazofil bo’yaladi
++mitoxondiriyalari kam
+-sitoplazmasi oksofil bo’yaladi
+-mitoxondiriyalari ko’p
+
+##Qalqonsimon bez oldi bezining bosh hujayralari xususiyati:
++sekretor granulalar tutadi
++oksifil hujayralarida ko'plab mitoxondriyalar bo'ladi
+-sekretor donachalari yo'q
+-yosh ulg’aygan sari soni ko’payadi
+
+##Gipofizga bo’ysinadigan bezlarni ko'rsating:
++qalqonsimon bez
++buyrak usti bezining po'stloq moddasi
+-buyrak usti bezining mag’iz moddasi
+-qalqonsimon oldi bezi
+
+##Qaysi bezlar faoliyati gipofizga bog’liq:
++tuxumdon
++urug’don
+-so'lak
+-ayrisimon
+
+##Gipofizga faoliyatiga bog’liq bezlar:
++sut bezi
++qalqonsimon bez
+-qalqonsimon oldi bezi
+-ter bezi
+
+##Qalqonsimon bezning parafollikulyar hujayralari joylashgan:
++follikula devorida
++follikulalar orasida
+-tirotsitlar va bazal membrana orasida
+-qon tomirlar devorida 
+
+##Qalqonsimon bezning parafollikulyar hujayralariga xos xususiyatlar:
++follikulala orasida joylashgan
++kaltsitonin sintezlaydi
+-qon tomirlar devorida joylashgan
+-sekretini follikula bo'shlig’iga ishlaydi
+
+## Qalqonsimon bezning parafollikulyar hujayralari:
++osmiofil donachalar tutadi
++kaltsitonin sintezlaydi
+-endoplazmatik to'r va Golji kompleksi sust rivojlangan
+-follikulyar hujayralar bilan birga yodni yutadilar
+
+##Buyrak usti bezi tutamli zonasining xususiyatlari:
++glyukokortikosteroid gormonlar ishlaydi
++endokrinotsitlar radial tasmalar hosil qiladi
+-endokrinotsitlar to'r xosil qiladi
+-adrenalin ishlaydi
+
+##Buyrak usti bezining tutamli zonasi:
++endokrinotsitlar mitoxondriyalarida kristalari naysimon
++endokrinotsitlar radial tasmalar hosil qiladi
+-gipofizga bog’liq emas
+-endokrinotsitlar to'r hosil qiladi
+
+##Gipofizning xromofob hujayralariga mos javoblarni belgilang:
++eng ko'p miqdorda
++adenogipofiz regeneratsiyasida ishtirok etadi
+-barcha adenotsitlarning 20% ni tashkil etadi
+-intensiv bo'yaladi
+
+##Gipofizning xromofob hujayralariga xos xususiyatlar:
++sekretor granulalari yo'q
++turli darajasida takomillashgan adenotsitlardan iborat
+-neyrogipofizda joylashgan
+-regeneratsiyaga uchramaydi
+
+##Pastki kovak vena devoridagi qavatlarining rivojlanish darajasi:
++tashqi qavatda mushaklar yaxshi taraqqiy etgan
++ichki qavatida silliq mushak hujayralarining bo'ylama tutamlari mavjud
+-tashqi qavatda silliq miotsitlar sirkulyar joylashgan
+-ichki qavatda silliq mushak hujayralari yo'q
+
+##Epikardga oid javoblarni belgilang:
++mezoteliy bilan qoplangan
++ko’plab qon tomirlar tutadi
+-endoteliy bilan qoplangan
+-perikard bilan zich birikkan
+
+##Epikard:
++tashqi kollagen tolali qavati bor
++elatik tolali qavati mavjud
+-ko'p miqdorda retikulyar tolalar tutadi
+-bir qavat prizmatik epiteliy bilan qoplangan
+
+##Kardiomiotsitlar orasidagi oraliq disklarda qanday hujayralararo birikishlar bo'ladi :
++tirqishli tutashish 
++desmosomalar
+-qulufli birikmalar
+-oddiy birikmalar
+
+##Kardiomiotsitlar orasidagi oraliq disklar:
++zinapoya ko'rinishiga ega
++kardiomiotsitlarni funktsional birlashtiradi
+-alohida kardiomiotsitlarning funktsional izolyatsiyasini ta'minlaydi
+-sinapslardan tuzilgan
+
+##Kardiomiotsitlar orasidagi oraliq disklarda mavjud:
++interdigitatsiyalar
++tirqishli tutashish
+-zich birikmalar 
+-oddiy birikmalar
+
+##Yurakning atrio-ventrikulyar tuguniga oid bo'lgan javoblar:
++atipik kardiomiotsitlardan tuzilgan
++tugunning markazida oraliq hujayralar yotadi
+-tipik kardiomiotsitlardan tuzilgan
+-asosan Peysmeker hujayralardan tuzilgan 
+
+##Yurakning atrio-ventrikulyar tugun hujayralari:
++Peysmeker hujayralarga nisbatan miofibrillalar yaxshi rivojlangan
++T-naychalar tutadi
+-zich birikmalar orqali birikadi
+-miofibrillalar tutmaydi
+
+##Limfotsitlarning antigenga bog’liq ko'payishi va differentsiallanishi qaysi a'zolarda ro'y beradi:
++limfatik tugunda
++murtaklarda
+-jigarda
+-qizil suyak ko'migida
+
+##Qaysi organlarda limfotsitlarning antigenga bog’liq ko'payishi va differentsiallanishi ro'y beradi:
++Peyer pilakchalarida
++taloqda
+-buyrak usti bezida
+-timusda
+
+##Limfotsitlarning antigenga bog’liq ko'payishi va differentsiallanishi ro'y beradi:
++tanglay murtagida
++ichakning limfatik tugunlarida
+-sariq ilikda
+-buyrak usti bezida
+
+##Timusdagi Gassal tanachalarining tuzilishi:
++epitelioretikulyar hujayralardan tuzilgan
++epetelioretikulotsitlar yirik vakuolalar tutadi
+-retikulyar hujayralarning kontsentrik to’planishi
+-B-limfotsitlar va timotsitlardan tashkil topgan
+
+##Timusdagi Gassal tanachalariga xos belgilarni ko'rsating:
++epitelioretikulotsitlar yirik vakuolalar tutadi
++keratin granulalar tutadi
+-timusning po’stloq moddasida joylashgan
+-tarkibida fibroblast va kollagen tolalari bo'ladi
+
+##Timusdagi Gassal tanachalari:
++mag’iz moddada uchraydi
++ularning miqdori yosh o'tgan sari oshadi
+-po'stloq moddada uchraydi
+-endoteliotsitlardan iborat
+
+##Limfatik tugunida qanday sinuslar farqlanadi:
++mag’iz sinusi
++oraliq sinuslar
+-venoz sinus
+-parakortikal sinus
+
+##Limfatik tugunda farqlanadi:
++oraliq sinus
++mag’iz sinusi
+-limfatik tuguncha ichidagi sinus
+-parakortikal sinus
+
+##Limfatik tugunda farqlanadi:
++olib keluvchi limfa tomirlari
++olib ketuvchi limfa tomirlari
+-limfatik qinlar
+-gilzasimon arteriolalar
+
+##Taloqning oq pulpasida qanday tuzilmalar farqlanadi:
++limfoid tugunchalar
++periarterial zona
+-venoz sinuslar
+-taloq tasmalari
+
+##Taloqning oq pulpasida farqlanadi:
++T- limfotsitlar
++B- limfotsitlar
+-epitelioretikulotsitlar
+-trabekulyar tomirlar
+
+##Taloqning oq pulpasida uchraydi:
++makrofaglar
++limfatik tugunchalar
+-silliq mushak hujayralari
+-venoz sinuslar
+
+##Taloqning qizil pulpasida bor:
++retikulyar to'qima
++pulpar tasmalar
+-limfoid follikulalar
+-yopqich zona
+
+##Taloqning qizil pulpasida nimalar bor:
++venoz sinuslar
++qon hujayralari
+-ko'payuvchi markaz
+-marginal zona
+
+##Taloqning qizil pulpasidagi tuzilmalar:
++pulpar tasmalar 
++venoz sinuslar
+-ko'p limfatik follikulalar
+-markaziy sinus
+
+
+
+
+3 ta javobli
+##Golji kompleksida bo‘ladi:
++sisternalar
++vakuolalar
++vezikulalar
+-kristalar
+-ribosomalar
+-kiritmalar
+
+##Mikronaychali hujayra tuzilmalari:
++bo‘linish duki
++sentriolalar
++kiprikchalar
+-mitoxondriyalar
+-endoplazmatik to‘r
+-lizosomalar
+
+##Donador endoplazmatik to‘r:
++oqsil sintezlaydi
++yadroning tashqi qavat bilanbog`langan
++membranali sisternalardan tuzilgan
+-steroid gormonlarni sintezlaydi
+-uglevodlar to`playdi
+-lizosomalar hosil qiladi
+
+##Plazmolemma funksiyalari:
++chegaralovchi 
++retseptor
++transport 
+-sekretor granulalar hosil qilish
+-ATF sintezlash
+-oqsil sintezlash
+
+##Silliq endoplazmatik to‘r:
++sisterna va vezikulalardan iborat
++ribosomalari yo‘q
++glikogen sintezida ishtirok etadi
+-proteolitik fermentlar tutadi
+-donador EPT hosil qilish manbai
+-yadro bilan bog`langan
+
+##Ribosomalar:
++membranasiz organellalar qatoriga kiradi
++erkin va endoplazmatik to‘r  bilan birlashgan bo‘ladi
++oqsil va RNK dan ibirat
+-erkin ribosomalar oqsilni «eksport» uchun sintezlaydi
+-membranali organellalar qatoriga kiradi
+-subbirliklari sitoplazmada hosil bo‘ladi
+
+##Yadro qobig`i:
++membranasi ikki qavatli
++yadro teshikchalarini hosil qiladi
++donador EPT bilan birlashgan
+-bir qavat membranadan iborat 
+-silliq EPT bilan bog`langan 
+-uch qavat membranadan iborat
+
+##Bir qavatli kubsimon epiteliy qoplaydi:
++buyrakning yig`uvchinaylarini
++so‘lak bezlarining kiritma naylarini
++bo‘lakchalar aro o‘t yo‘llarini 
+-o‘t qopini
+-quloq oldi bezi chiziqli nayini
+-me'dani
+
+##Ko‘p qavatli muguzlanmaydigan epiteliy qavatlari:
++bazal qavat
++donador qavat
++tikanakli hujayralar
+-kubsimon hujayralar
+-endokrin hujayralar
+-noksimon hujayralar
+
+##Kiprikli epiteliy uchraydi:
++bronxlarda
++bachadonda
++urug’ olib chiquvchi kanalchalarda
+-urug’don egri bugri naychalarda
+-buyrak nayida
+-og`iz bo‘shlig`ida
+
+##O‘zgaruvchan epiteliy qoplagan:
++siydik nayini
++buyrak kosachalarini
++buyrak jomchalarini
+-ichakni
+-bachadonni
+-urug’ olib chiquvchi naychalarni
+
+##Mioepitelial hujayralar:
++qisqaruvchi filamentlar saqlaydi
++bez oxirlaridan sekret chiqishini ta'minlaydi
++sut bezining oxirgi bo‘limlarida bo‘ladi
+-me’da bezlarida uchraydi
+-duksimon shaklga ega
+-splanxnotom mezenximasidan rivojlanadi
+
+##Neytrofil granulotsitlar:
++ishqoriy fosfataza – maxsus granulalarining marker fermenti
++yadro 3 – 4 segmentan iborat 
++azurofil granulalar tutadi
+-eng kam sonly leykotsitlar
+-gistamin sintezlaydi
+-gistamindekarboksilaza – nishon fermenti
+
+##Eozinofillarga xos:
++yadro ko‘pincha 2 segmentli
++spetsifik donachalarda – gistaminaza bor
++leykotsitlarning 2 -5 % tashkil etadi
+-spetsifik donachalarda – gistamin 
+-hujayraviy immunitetni ta'minlaydi
+-bazofil donachalari bor
+
+##Bazofillar o’zida tutadi:
++gistamin
++geparin
++gistidindekarboksilaza
+-kristalloid
+-gistaminaza
+-katalaza
+
+##Monotsitlarni xususiyatlari:
++lizosomalari ko‘p
++qondan biriktiruvchi to`qimaga o’tadi
++fagotsitoz qiladi
+-gistaminaza bor
+-yadrosi segmentlangan 
+-lipid kiritmalar ko‘p
+
+##Granulotsitlarga xos:
++yadro segmentlangan
++azurofil donachali
++organellalari kam
+-yumaloq yadro tutadi
+-peroksisomalar ko`p
+- organellalarga boy
+
+##Trombotsitopoez bosqichlari:
++megakariotsit
++megakarioblast
++promegakariotsit
+-miyeloblast
+-promiyelotsit
+-eritroblast
+
+##Eritrotsitlar ta'rifida to‘gri:
++sitoplazmasida – gemoglobin granulalari bor
++asosiy funksiyasi – kislorod transporti
++diametri 7,1 – 7,9mkm
+-asosan sharsimon shaklga ega
+-fagotsitoz – asosiy funksiyasi
+-Golji kompleksi yaxshi taraqqiy etgan
+
+##Trombotsitopoezda:
++hujayralar rivojlanishi davomida yiriklashadi
++ganulalar soni ortadi
++yadro kattalashadi, hamda segmentlarga ajraladi
+- rivojlanishi davomida yadro hajmi kichrayadi
+-qon plastinkalari betartib ajraladi
+-qon plastinkalarida megakariotsit yadrosining qoldiklari uchraydi
+
+##Zich biriktiruvchi to’qima uchraydi:
++payda
++miyaning qattiq pardasida
++bog’lamlarda
+-terining so’rg`ichli qavatida
+-miyaning yumshoq pardasida
+-taloq stromasida
+
+##Semiz hujayralarga xos:
++allergik reaksiyalarda ishtirok etadi
++ko‘p miqdorda donachalarga ega
++granulalarida geparin, gistamin bor
+-yot jismlarni fagotsitoz qiladi 
+-o‘simtali tuzilishga ega
+-yadrosi kuchli segmentlangan
+
+##Immun reaksiyalarda ishtirok etuvchi hujayralar:
++makrofag
++T-limfotsit
++B-limfotsit
+-adipotsit
+-fibroblast
+-fibrotsit
+
+##Gialin tog`ayi uchraydi:
++hiqildoqda
++kekirdakda
++bo‘g`imlarda
+-naysimon suyaklarni diafizida
+-bronxiolalarda
+-suyak ustki pardada
+
+##Tolali tog`ay joylashgan:
++umurtqalararo diskda
++yarim harakatchan bo‘g’imlarda
++gialin tog`ayini paylarga birikish joyida
+-quloq suprasida
+-hiqildoq usti tog`ayida
+-yirik bronxlarda
+
+##Tolali tog`ayining tuzilishi:
++kollagen tolalari parallel joylashgan
++tog`ay hujayralari zanjirsimon joylashgan
++tog`ay usti pardasi yo‘q
+-tog`ay usti parda bilan qoplangan
+-izogen guruhlar xondroblastlarga boy
+-kollagen tolalari tartibsiz joylashgan
+
+##Osteoblastlar xususiyatlari: 
++ishqoriy fosfataza ko‘p
++donador EPT va mitoxondriyalar yaxshi rivojlangan
++syyak to’qimasining oraliq moddasini hosil qiladi
+-shakliga mos lakunalarda joylashgan
+-ko‘p miqdorda lizosomalar tutadi
+-organellalar juda kam
+
+##Suyak to‘qimasining gistologik va anatomik turlari:
++plastinkasimon 
++retikulofibroz
++kompakt
+-trabekulyar
+-fibroz
+-fibroz-elastik
+
+##Suyak to‘qimasi tog`aydan farqlanadi:
++qon tomirlari bor
++mineralizatsiya darajasi baland
++ossein tolalari bor
+-regeneratsiya xususiyati yo‘q
+-mineral moddalar kam
+-izogen guruhlar tutadi
+
+##Suyak to‘qimasining g`ovak moddasi:
++plastinkasimon tuzilishga ega
++suyak plastinkalari trabekulalar hosil qiladi
++trabekulalar orasida siyrak biriktiruvchi to‘qima joylashgan
+-qon tomirlari bo‘lmaydi
+-trabekulalar orasida tog`ay to‘qima joylashgan
+-osteonlari bo‘ladi
+
+##Kardiomiotsitlar turlari:
++sekretor
++o‘tkazuvchi
++qisqaruvchi
+-bazal
+-tutamli
+-kubsimon
+
+##Yurak mushak to‘qimasi:
++mioepikardial plastinkadan rivojlanadi
++hujayra tuzilishiga ega
++ko‘ndalang-targ’illikka ega
+-simplastik tuzilishga ega
+-miotomdan rivojlanadi
+-kardiomiotsitlar duksimon shaklga ega
+
+##Skelet-mushak tolasi:
++tolali tuzilishga ega
++plazmolemma T-naychalar hosil qiladi
++yadrolari periferiyada joylashgan
+-ko‘p miqdorda lizosomalar tutadi
+-sarkoplazmatik to‘r yadro atrofida joylashgan
+-T-naychalar sarkoplazmatik to‘rdan iborat
+
+##O‘tkazuvchi kardiomiotsitlar tuzilishi:
++T-naychalari tizimi rivojlanmagan
++miofibrillalari kam
++mitoxondriyalari mayda
+-miokardning asosiy qismini egallaydi 
+-peroksisomalari ko‘p
+-T- naychalari tizimi rivojlangan
+
+##Mushak tolasi triadasiga to’g’ri ta’rif :
++1 ta T-naycha tutadi
++sarkoplazmatik to‘rning 2 ta sisternasi bor 
++T-naychalar Z- chiziq soxasida bo’ladi 
+-3 ta T-naycha tutadi
+-2 ta miozin ipchalari vaT-naycha tutadi
+-sarkoplazmatik retikulumninig 3 ta sisternasidan tuzilgan
+
+##Neyron ta'rifi:
++o‘lchami 4-6 mkmdan 130 mkmgacha
++neyrofibrillalari bor
++ bazofil moddasi bor
+-o‘simtalari yo‘q
+-oksifil moddasi bor
+-yumaloq shaklga ega
+
+##Mikrogliya hujayralari: 
++ko‘p lizosomali
++o‘simtalari tarmoqlangan 
++glial makrofaglar hisoblanadi
+-o‘simtalari yo‘q
+-peroksisomalari ko‘p
+-glioblastlardan hosil bo’ladi 
+
+##Nerv tolasining miyelin qobig’i:
++neyrolemmotsitlar hosil qiladi
++lipidlar tutadi
++kertiklar hosil qilgan
+-astrotsitlar o‘simtalaridan hosil bo‘lgan
+-tolali astrotsitlardan hosil bo‘lgan
+-kollagen tolalarga ega
+
+##Kapsulali nerv oxirlari:
++sezuvchi tanachalar
++Fater-Pachini tanachalari
++Krauze kolbalari
+-Xerring tanachalari
+-Gassal tanachalari
+-motor blyashkalari
+
+
+##Miyelinli nerv tolasi:
++miyelin qobig’i bor
++1 ta o‘q silindr bo‘ladi 
++impulslar tezligi120 m/s. gacha
+-lemmotsit yadrosi markazda joylashgan 
+-miyelin qobig`ini hosil bo‘lishida astrotsitlar ishtirok etadi
+-vegetativ nerv tizimida uchraydi
+
+##Dendritlarga xos:
++xromatofil substansiyasi bo‘ladi
++ko‘p miqdorda neyrotubulla va neyrofilamentlar saqlaydi
++shoxlanadi
+-ko’p miqdorda donachalar tutadi
+-shoxlanmaydi
+-ko‘plab lizosomalar tutadi
+
+##Ependimotsitlar ta'rifida to‘g`ri:
++orqa miya kanalini va miya qorinchalari devorini qoplaydi
++serebrospinal suyuqligini hosil bo‘lishda ishtirok etadi
++apikal yuzasida kiprikchalar bor
+-miya pardalar ostida joylashgan
+-gematoensefalik to‘siq tarkibiga kiradi
+-miyelin hosil bo‘lishida ishtirok etadi
+
+##Neyron yadrosiga to’g’ri ta’rif:
++neyron odatda 1 ta yadroli
++xromatin disperslangan
++vegetativ gangliylarda ko’p yadroli neyronlar uchraydi
+- neyron odatda ko’p yadroli
+-xromatin kuchli spirallangan
+-yadrochalar 3 dan 7 tagacha bo‘ladi
+
+##Aksonga xos xususiyatlar:
++asosan terminal qismida shoxlanadi
++akson tepaligi mavjud
++mitoxondriyalari bor
+-xromatofil substansiyasi bo‘ladi
+-ko‘plab lizosomalar tutadi
+-mitoxondriyalari juda kam
+
+##Neyrondagi xromatofil substansiya:
++anilin bo‘yoqlar bilan bo‘yalganda aniqlanadi
++ perikarionda hamda dendritlarda joylashadi
++ RNK borligi sababli bazofil bo‘yaladi
+-asosan aksonda va kam holatlarda dendritda joylashadi
+-tigroid modda tarkibiga silliq EPT kiradi 
+-lipofussin to‘planishi bilan ifodalanadi
+
+##Oligodendrotsitlar:
++eng ko‘p uchraydigan neyrogliya hujayrasi
++neyronlarni oziqlantirishda qatnashadi
++nerv tolasining hosil qilishda ishtirok etadi
+-ko’p o’simtali hujayralar
+-dendrit va aksonlarga ega
+-ko‘p yadroli yirik hujayralar 
+
+##Nerv to‘qimasi rivojlanadi:
++nerv nayidan
++ganglioz plastinkadan
++ektodermaning dorsal qismidan
+-splanxnotomdan
+-nefrotomdan
+-sklerotomdan
+
+
+##Gipofizning oraliq qismida: 
++endokrinotsitlar tor tasmalar hosil qilib joylashgan 
++melanotrop hujayralar mavjud 
++lipotrop gormon ishlab chiqariladi 
+-follikulalarda gormonlarto‘planadi 
+-tireotrop gormonishlab chiqariladi 
+-neyrosekretor hujaralarning aksonlari tugaydi
+
+##Gipofizning orqa bo‘lagi tuzilishida to‘g’ri javobni ko‘rsating: 
++gipotalamusning neyresekretor hujayralari aksonlarini tutadi 
++glial hujayralar tutadi 
++Xerring tanachalar tutadi 
+-endokrin hujayralar follikulalar hosil qiladi
+-parenximasini neyroendokrin hujayralar tashqil qiladi 
+-parenximasini epetelial hujayralar tashqil etadi 
+
+##Buyrak usti bezning tutamli va to‘rsimon zonalariga xos:
++lipid kiritmalari ko‘p
++mitoxondriyalar vezikulyar kristali
++agranulyar endoplazmatik to‘r yaxshi rivojlangan
+-mitoxondriyalar plastinkasimon kristali
+-hujayra ichi naychali
+-oqsil kiritmalar
+
+##Qalqonsimon bezning giperfunksiyasida:
++follikula devori burmalar hosil qiladi 
++follikulyar hujayralar silindrsimon shaklda
++follikul kolloidida vakuolalar hosil bo‘ladi 
+-follikul kolloidi zichlashadi 
+-follikul o‘lchamlari kattalashadi 
+-tireotsit mikrovorsinkalarining soni kamayadi 
+
+##Gipofizning gonadotrop hujayralari quyidagi faoliyatlarni boshqaradi:
++ovogenezni
++spermatogenezni
++jinsiy gormonlar hosil bo‘lishini 
+-buyrak usti bezining po‘stloq moddasini
+-qalqonsimon bez funksiyasini
+-buyrak usti bezining mag’iz moddasini
+
+##Qalqonsimon bez oldi bezining bosh hujayralari xususiyati: 
++sitoplazmasi bazofil 
++ko‘p miqdorda ribosoma va polisomalarga ega 
++sekretor granulalar tutadi 
+-donador endoplazmatik to‘r sust rivojlangan 
+-sitoplazmasi oksifil
+-sekretor donachalari yo‘q
+
+##Buyrak usti bezining taraqqiyotida ishtirok etadi:
++selomik epiteliy 
++ganglioz plastinka
++mezenxima
+-plakodalar
+-somitlar
+-prexordal plastinka
+
+##Buyrak usti bezining po‘stloq moddasi:
++selomik epiteliydan rivojlanadi
++uchta zonaga bo‘linadi
++kam differensiallashgan hujayralar qavati tutadi
+-oqsil gormonlari ishlab chiqaradi
+-endokrin hujayralari nerv to‘qimasiga kiradi
+-regulyatsiyasi gipofizga bog`liq emas
+
+##Mushaksiz venalar:
++ko‘zning to‘r pardasi venalari
++suyak venalari
++miya yumshoq pardasi venalari
+-yuqori kovak venasi
+-son venasi
+-pstki kovak vena
+
+##Yurakning o‘tkazuvchi tizimi hujayralari:
++Peysmeker hujayralari
++oraliq hujayralar
++Purkinye tolalari  
+-Xerring tanachalari
+-kiritma hujayralar
+-tipik kardiomiotsitlar 
+
+##Kapillyar devorida mavjud:
++endoteliotsitlar 
++peritsitlar 
++bazal membrana
+-ichki elastik membrana
+-silliq mushak hujayralari 
+-endoteliy osti qavati 
+
+##Arteriola devorining xususiyatlari:
++o‘rta pardada silliq mushak hujayralari 1-2 qavatga ega
++ichki elastik membrane bor
++subendoteliy qavati yupqa 
+-tashqi elastik membrana bor
+-darchasimon membranalar bor
+-silliq miotsitlar tutmaydi 
+
+##Arteriya diametri kichiklashgani sari:
++o‘rta qavat yupqalashadi
++tashqi elastik membrana yo‘qoladi
++silliq mushak hujayralari qavati kamayadi
+-elastik tolalar ko‘payadi
+-ichki va tashqi elastik membranalar saqlanadi 
+-endoteliy osti qavat yo‘qoladi
+
+##Mushak elementlari sust taraqqiy etgan venalar: 
++bo‘yin venasi 
++yuqori kavak venasi 
++yuz venasi 
+-pastki kovak vena 
+-yelka venasi 
+-taloq venasi
+
+##Limfatik kapillyarlar tuzilishining xususiyatlari:
++bir tomonlama berk
++devorida bazal membrana bo‘lmaydi 
++yuzasi keng 
+-silliq miotsitlar tutadi 
+-endoteliy osti qavati mavjud 
+-endoteliotsitlar bazal membranada yotadi 
+
+##Yurakning o‘tkazuvchi hujayralari joylashagan:
++endokard ostida
++miokard orasida
++siyrak tolali biriktiruvchi to‘qima bilano‘ralgan
+-perikardda
+-miokard va epikard orasida
+-pay tolalarida
+
+##Ko‘krak limfa yo‘li tuzilishining xususiyatlari:
++devori diafragma sohasida yaxshi rivojlangan
++ichki va o‘rta pardalari yupqa
++klapanlarga ega
+-mushak qavatlari qalinligi distal yo‘nalishda ortib boradi
+-klapanlar yo‘q
+-devori butun uzunligi bo‘ylab bir xil tuzilgan
+
+##Timusdan chiqqan T-limfotsitlar joylashadi:
++limfatik tugunlarni parakortikal zonasida
++taloq oq pulpasining periarterial zonasida
++Peyer pilakchalarining follikulalari orasida 
+-limfatik tugunining mag`iz tasmalarida
+-taloqning qizil pulpasida
+-limfatik tugunlar sinuslarida
+
+##T- limfotsitlar mikromuxitini hosil qiladi:
++retikulyar hujayralar
++makrofaglar
++interdigitirlovchi hujayralar
+-eritrotsit
+-plazmotsitlar 
+-neytrofillar
+
+##Limfatik tugun follikullasining ko‘payishi markazida bor:
++limfoblastlar
++makrofaglar
++dendritik hujayralar
+-fibroblastlar
+-neytofillar
+-plazmotsitlar
+
+##Limfa tugunlari mag`iz tasmalarida: 
++plazmotsitlar hosil bo‘ladi 
++qon tomirlar o‘tadi 
++makrofaglar mavjud 
+-T – zona joylashgan 
+-periarteial qin joylashgan 
+-interdigitirlovchi hujayralar bor
+
+##Taloqdagi venoz sinuslarning xususiyatlari:
++bazal membranasi uzuq-yuluq
++peritsitlar yo‘q
++sfinkterlar bor
+-ichki elastik membrana bor
+-mushak qavati bo‘ylama joylashgan
+-bazal membrana uzluksiz 
+
+##Taloqning tayanch to’qimasini hosil qiladi:
++kapsula
++trabekulalar
++retikulyar to‘qima
+-periarterial qin
+-limfatik tugunchalar
+-epiteliy to‘qima 
+
+##Taloqning T-ga tobe zonasi: 
++markaziy arteriya atrofida joylashgan
++asosan T-limfotsitlardan tashkil topgan
++interdigitirlovchi hujayralar tutadi
+-plazmatik hujayralar tutadi
+-qizil pulpada joylashgan
+-dendritik hujayralardan iborat 
+
+##Timusning yoshga ko‘ra involyutsiyasida: 
++limfotsitlar miqdori kamayadi
++po‘stloq va mag`iz moddalari orasidagi chegara aniq ko‘rinmaydi
++retikuloepitelial hujayralar yiriklashadii 
+-epitelial to‘qima kamayib boradi
+-limfotsitlar soni ko‘payadi
+-limfotsitlar soni o‘zgarmaydi
+
+
+##Normal qonda quyidagi granulotsitlarning turi bo‘ladi:
++tayoqcha yadroli
++metamiyelotsitlar
++segmentyadroli
+-promiyelotsitlar
+-miyelotsitlar
+-miyeloblastlar
+
+##Qaysi hujayralar biriktiruvchi to‘qimaga migratsiya qiladi:
++limfotsitlar
++neytrofillar
++monotsitlar
+-fibroblastlar
+-eritrotsitlar
+-trombotsitlar
+
+##Kollagen sintezlovchi hujayralarni ko‘rsating:
++fibroblastlar
++xondroblastlar
++osteoblastlar
+-makrofaglar
+-plazmotsitlar
+-adipotsitlar
+
+##Naysimon suyaklarning diafiz qismi:
++suyak usti pardasi bilan qoplangan
++osteonlar bo‘ylama joylashgan
++endost suyak ko‘migi bo‘shlig’ini qoplaydi
+-dag’al tolalari suyakdan iborat
+-g’ovak suyakdan tashqil topgan
+-diafiz bo‘shlig’i doim qizil suyak ko‘migi bilan to‘lib turadi
+
+##Silliq mushak to‘qimasi:
++ixtiyorsiz qisqaradi
++bo‘shliq a'zolar devorining mushak pardasini hosil qiladi
++regeneratsiya qilish xususiyatiga ega
+-somatik nerv sistemasi tomonidan boshqariladi
+-qisqarishi gormonlar ta'siriga bo‘ysinmaydi
+-mushak tolalardan tuzilgan
+
+##Neyronlarning morfologik turlari:
++multipolyar
++psevdounipolyar
++bipolyar
+-retseptor
+-ildizchali
+-afferent
+
+##Neyroglial hujayralarning turlari:
++oligodendrogliotsitlar
++ependimotsitlar
++astrotsitlar
+-ganglioz
+-neyroblastlar
+-fibrotsitlar
+
+##Psevdounipolyar neyronlar:
++bipolyar neyronlarga kiradi
++afferent hisoblanadi
++o‘siqchalari T-shaklida ajraladi
+-vegetativ nerv tugunlarida uchraydi
+-efferent hisoblanadi
+-ko‘rinishi o‘zgargan multipolyar neyronlar
+
+##Sinaps tuzilishida farqlanadi:
++presinaptik membrana
++postsinaptik membrana
++sinaptik tirqish
+-tonofilamentlar
+-postsinaptikpufakchalar
+-kolloid 
+
+##Bosh miya po‘stlog’ida qanday tolalar farqlanadi:
++assotsiativ
++proyeksion
++komissural
+-moxsimon
+-periferik
+-o‘rmalovchi
+
+##Sinusoid kapillyarlar:
++ qizil suyak ko‘migida joylashgan
++uzuq-yuluq bazal membranaga ega
++endotelial hujayralar orasida tirqishlar bo‘ladi
+-endotelial hujayralar uymaloq shaklda
+-devorida silliq mushak hujayralar tutadi
+-mushak to’qimasida joylashgan
+
+##Postkapillyar venula:
++ichki yuzasini endotelial hujayralar qoplaydi
++devorida peritsitlar bo‘ladi
++devori orqali leykotsitlar o‘tadi
+-endotelial hujayralar bazal membranada yotmaydi
+-o‘rta qavati silliq mushak hujayralari tutadi
+-tashqi qavatida silliq mushak hujayralari bo‘ladi
+
+##Limfatik tugunlarning parakortikal zonasida asosan joylashadi:
++T- limfotsitlar
++interdigitirlovchi hujayralar
++T- killerlar
+-dendritli hujayralar
+-B-limfotsitlar
+-B-limfoblastlar
+
+##Limfatik tugunlarning mag’iz moddasining tuzilishi:
++mag’iz tasmalari
++mag’iz sinuslari
++trabekulalar
+-qirg’oq sinuslari
+-limfoid follikulalar
+-venoz sinuslari
+
+
+##Bir membranali organellaraga kiradi:
++endoplazmatik to‘r
+-mitoxondriya
++Golji kompleksi 
++lizosoma
+-ribosoma
+-sentriola
+
+##Donador leykotsitlarga kiradi:
+-T-limfotsitlar
++neytrofillar
++eozinofillar
++bazofillar
+-monotsitlar
+-B-limfotsitlar
+
+##Maxsus xususiyatga ega biriktiruvchi to‘qimalarni ko‘rsating:
+-suyak
++yog’
++retikulyar
+-tog`ay
++shilliq
+-qon
+
+
+##Mitoxondriya strukturasida farqlanadi:
++tashqi membrana
++ichki membrana
++kristalar
+-ukleoidlar
+-vezikulalar
+-kiritmalar
+
+##Lizosoma turlari:
++birlamchi
++ikkilamchi
++autofagosoma
+-uchlamchi
+-diktiosoma
+-osmiofil tanachalar
+H. zich tanachalar
+
+
+

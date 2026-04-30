@@ -1,30 +1,38 @@
-import { useEffect, useState, useRef } from 'react';
+import { useEffect, useState, useRef, useCallback } from 'react';
 
-export function useTimer(seconds) {
-  const [timeLeft, setTimeLeft] = useState(seconds);
-  const [running, setRunning] = useState(false);
-  const secondsRef = useRef(seconds);
+// Tuzatildi: bitta ref-based interval — har tikda yangi interval yaratilmaydi
+export function useTimer(initialSeconds) {
+  const [timeLeft, setTimeLeft] = useState(initialSeconds || 0);
+  const [running, setRunning]   = useState((initialSeconds || 0) > 0);
+  const intervalRef = useRef(null);
 
-  // reset timer whenever seconds prop changes
+  // running holatiga qarab interval boshqaruvi
   useEffect(() => {
-    secondsRef.current = seconds;
-    setTimeLeft(seconds);
-    setRunning(seconds > 0);
-  }, [seconds]);
-
-  useEffect(() => {
-    if (!running || timeLeft <= 0) return;
-
-    const id = setInterval(() => {
-      setTimeLeft((t) => t - 1);
+    if (!running) {
+      clearInterval(intervalRef.current);
+      return;
+    }
+    intervalRef.current = setInterval(() => {
+      setTimeLeft(t => {
+        if (t <= 1) {
+          clearInterval(intervalRef.current);
+          setRunning(false);
+          return 0;
+        }
+        return t - 1;
+      });
     }, 1000);
 
-    return () => clearInterval(id);
-  }, [timeLeft, running]);
+    return () => clearInterval(intervalRef.current);
+  }, [running]);
 
-  return {
-    timeLeft,
-    stop: () => setRunning(false),
-    start: () => setRunning(true),
-  };
+  const stop  = useCallback(() => { clearInterval(intervalRef.current); setRunning(false); }, []);
+  const start = useCallback(() => setRunning(true), []);
+  const reset = useCallback((s) => {
+    clearInterval(intervalRef.current);
+    setTimeLeft(s || 0);
+    setRunning((s || 0) > 0);
+  }, []);
+
+  return { timeLeft, running, expired: timeLeft === 0 && !running, stop, start, reset };
 }
