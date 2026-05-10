@@ -13,7 +13,7 @@ export default function ResultCard({
             {index !== undefined ? `Q${index + 1}: ` : ''}
             {question}
           </h3>
-          <p className='mt-1 text-sm text-gray-600'>Score: {score} / 100</p>
+          <p className='mt-1 text-sm text-gray-600'>Ball: {score} / 100</p>
         </div>
       </div>
 
@@ -39,11 +39,11 @@ export default function ResultCard({
                 <span className='text-sm'>{a.text}</span>
                 <div className='ml-3 text-xs'>
                   {isCorrect && (
-                    <span className='text-green-700 font-medium'>Correct</span>
+                    <span className='text-green-700 font-medium'>To'g'ri</span>
                   )}
                   {!isCorrect && isSelected && (
                     <span className='text-red-700 font-medium'>
-                      Selected (Wrong)
+                      Tanlangan (noto'g'ri)
                     </span>
                   )}
                 </div>

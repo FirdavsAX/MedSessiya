@@ -7,7 +7,7 @@ export const MAX_QUESTION_HISTORY = 20;
 
 export const COURSES = [
   { id: 'anatomiya', title: 'Anatomiya', icon: '🫀', color: 'blue' },
-  { id: 'gistalogiya', title: 'Gistologiya', icon: '🔬', color: 'violet' },
+  { id: 'gistalogiya', title: 'Gistologiya', icon: '🔬', color: 'violet', badge: 'Yangilangan' },
 ];
 
 export const MODES = [

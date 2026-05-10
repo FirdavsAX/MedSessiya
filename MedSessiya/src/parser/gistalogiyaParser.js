@@ -1,11 +1,34 @@
-/**
- * gistalogiya.txt format:
- *   1 ta javobli          ← bo'lim sarlavhasi (ixtiyoriy)
- *   ##Savol matni
- *   +to'g'ri javob
- *   -noto'g'ri javob
- */
-export function parseGistologiya(text) {
+function parseMoodleFormat(text) {
+  const questions = [];
+  const questionBlocks = text.matchAll(/(?:^|\n)\s*#\s*([\s\S]*?)\s*\{([\s\S]*?)\}/g);
+
+  for (const match of questionBlocks) {
+    const question = match[1].replace(/\s+/g, ' ').trim();
+    const options = match[2]
+      .split(/(?=~%[-\d.,]+%)/)
+      .map(optionText => optionText.trim())
+      .filter(Boolean)
+      .map(optionText => {
+        const optionMatch = optionText.match(/^~%([-\d.,]+)%\s*([\s\S]*?)\s*$/);
+        if (!optionMatch) return null;
+
+        const weight = Number.parseFloat(optionMatch[1].replace(',', '.'));
+        const text = optionMatch[2].replace(/\s+/g, ' ').trim();
+        if (!text || Number.isNaN(weight)) return null;
+
+        return { text, isCorrect: weight > 0 };
+      })
+      .filter(Boolean);
+
+    if (question && options.length > 0) {
+      questions.push({ question, options });
+    }
+  }
+
+  return questions;
+}
+
+function parseLegacyFormat(text) {
   const lines = text.split('\n');
   const questions = [];
   let current = null;
@@ -44,4 +67,21 @@ export function parseGistologiya(text) {
   }
 
   return questions;
+}
+
+/**
+ * Gistologiya savollari ikki formatni qo'llab-quvvatlaydi:
+ *
+ *   # Savol matni
+ *   {~%100%to'g'ri javob
+ *   ~%0%noto'g'ri javob}
+ *
+ * va eski format:
+ *   ##Savol matni
+ *   +to'g'ri javob
+ *   -noto'g'ri javob
+ */
+export function parseGistologiya(text) {
+  const moodleQuestions = parseMoodleFormat(text);
+  return moodleQuestions.length > 0 ? moodleQuestions : parseLegacyFormat(text);
 }

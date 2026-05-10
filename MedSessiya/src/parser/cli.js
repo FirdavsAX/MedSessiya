@@ -3,7 +3,7 @@
  * Ishlatish: node src/parser/cli.js
  *
  * Fayl manzillari:
- *   Input:  ../anatomiya.txt, ../gistalogiya.txt  (loyihadan bir daraja yuqori)
+ *   Input:  ../anatomiya.txt, ../Gsitologiya uzb+++.txt  (loyihadan bir daraja yuqori)
  *   Output: src/data/anatomiya.json, src/data/gistalogiya.json
  */
 import fs from 'node:fs';
@@ -21,7 +21,7 @@ const ROOT_DIR = path.resolve(__dirname, '../../../');
 
 const COURSES = [
   { id: 'anatomiya',   file: 'anatomiya.txt',   parser: parseAnatomy      },
-  { id: 'gistalogiya', file: 'gistalogiya.txt',  parser: parseGistologiya  },
+  { id: 'gistalogiya', file: 'Gsitologiya uzb+++.txt', parser: parseGistologiya },
 ];
 
 fs.mkdirSync(DATA_DIR, { recursive: true });

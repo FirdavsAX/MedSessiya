@@ -44,7 +44,14 @@ export default function HomePage() {
                 }`}
               >
                 <div className="text-3xl mb-3">{c.icon}</div>
-                <h2 className="font-semibold text-gray-900 text-base">{c.title}</h2>
+                <div className="flex items-center gap-2 flex-wrap">
+                  <h2 className="font-semibold text-gray-900 text-base">{c.title}</h2>
+                  {c.badge && (
+                    <span className="px-2 py-0.5 rounded-full bg-green-100 text-green-700 border border-green-200 text-[11px] font-medium">
+                      {c.badge}
+                    </span>
+                  )}
+                </div>
                 <div className="mt-2 space-y-0.5 text-xs text-gray-500">
                   {sessions > 0 ? (
                     <>

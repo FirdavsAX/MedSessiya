@@ -8,17 +8,17 @@ export default function RangeSelector({ total, onStart }) {
     const s = Number(start);
     const e = Number(end);
     if (!Number.isInteger(s) || s < 1)
-      return { valid: false, error: 'Start must be an integer >= 1' };
+      return { valid: false, error: "Boshlanish 1 yoki undan katta butun son bo'lishi kerak" };
     if (!Number.isInteger(e) || e < 1)
-      return { valid: false, error: 'End must be an integer >= 1' };
-    if (s > e) return { valid: false, error: 'Start must be <= End' };
-    if (e > total) return { valid: false, error: `End must be <= ${total}` };
+      return { valid: false, error: "Tugash 1 yoki undan katta butun son bo'lishi kerak" };
+    if (s > e) return { valid: false, error: "Boshlanish tugashdan katta bo'lmasligi kerak" };
+    if (e > total) return { valid: false, error: `Tugash ${total} dan katta bo'lmasligi kerak` };
     return { valid: true, error: null };
   }, [start, end, total]);
 
   return (
     <div className='max-w-md mx-auto p-6 bg-white rounded shadow space-y-4'>
-      <h2 className='text-xl font-semibold'>Select Question Range</h2>
+      <h2 className='text-xl font-semibold'>Savollar diapazonini tanlang</h2>
 
       <div className='flex gap-4'>
         <input
@@ -32,7 +32,7 @@ export default function RangeSelector({ total, onStart }) {
             )
           }
           className='border p-2 w-full'
-          placeholder='Start'
+          placeholder='Boshlanish'
         />
         <input
           type='number'
@@ -47,7 +47,7 @@ export default function RangeSelector({ total, onStart }) {
             )
           }
           className='border p-2 w-full'
-          placeholder='End'
+          placeholder='Tugash'
         />
       </div>
 
@@ -63,14 +63,14 @@ export default function RangeSelector({ total, onStart }) {
           }`}
           disabled={!valid}
         >
-          Start Test
+          Testni boshlash
         </button>
 
         <button
           onClick={() => onStart({ random: true })}
           className='flex-1 py-2 rounded bg-yellow-500 text-white'
         >
-          Start Random Test (25 questions / 25 minutes)
+          Tasodifiy testni boshlash (25 savol / 25 daqiqa)
         </button>
       </div>
     </div>
